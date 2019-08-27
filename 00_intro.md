@@ -5,7 +5,7 @@ Landscape Architecture industry in these 20 years, is growing fast and is recogn
 
 In this book, we will introduce you these useful tools and related practical skills.
 
-### Part 1: Immersive Virtual (Visualization & Spatialization)
+### Part 1: Immersive Experience (Visualization & Spatialization)
 
 ##### Chapter 1: virtual reality
 
