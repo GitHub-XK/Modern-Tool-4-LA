@@ -1,0 +1,5 @@
+### Chapter 2: AI, ML, DL, Big Data
+
+##### 2.1 Introduction to Artificial Intelligent
+
+As a designer, my beginning understand of Artificial Intelligent is a robots as smart as human. This technology sounds obscure to understand and far from designer's daily job and life. It is a branch of computer science which is very different from design or natural science field. However, we used this technology almost everywhere in our life. For example, the auto drive car, the Amazon recommend advertisements, the weather forecast prediction, the postal code recognize system from postal office, and all the voice assisstance like siri, google assistant, alexa. They are all artificial intelligence. There is huge potential that AI will broadly be emplyed by every industy and replace most of the human labor, including the design industry and traditional designer. It is important to understand this technology
