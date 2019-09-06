@@ -88,7 +88,7 @@ Cnc, 3d printing, bio material, fabric, metal...
   - ... (need research)
 - 4.4 Traditional Construction Tech vs. Modern Fabrication: New Construction Standard?
 
-##### Chapter 5: parameter modeling, def, type, example, new technologies of parameter modeling.(??? Need ???)
+##### Chapter 5: parameter modeling/ Parametric Design, def, type, example, new technologies of parameter modeling.(??? Need ???)
 
 - 5.1 Introduction to Parameter Modeling
   - History of Parameter Modeling
@@ -183,4 +183,3 @@ Introduction: Landscape architecture design can not build without accurate infor
 
 
 
-  
