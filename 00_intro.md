@@ -176,6 +176,12 @@ Introduction: Landscape architecture design can not build without accurate infor
   - D3.js
   - Python
 
+##### Chapter 11: Other Useful Tool for Landscape Architecture
+
+- Land Design Plugin for Rhino
+- Vectorworks
+- 
+
 ### Conclusion 
 
 
