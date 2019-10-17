@@ -1,6 +1,11 @@
 ### Modern Tools for Landscape Architecture
 
 #### Introduction
+
+
+
+When first time landscape architecture firm bought a computer (Example of David Walker), It was the turning point / revolution of how could designer express their ideas. Instead of close accurate hand drawing and rendering, you could simply draw standard infinite accurate shapes ,then drag, rotate and duplicate. David Walker said, in the day he graduate from Rhode Island of Design in 1992. He found professor Colgate sitting in his office, stairing at cube with black and white screen, which is the first Macintosh computer. "What are you going to do with this machine?" David asked. "I don't know." Colgate said. When David graduate from GSD, he bring the first computer to the office of PWP Landscape Architecture in San Francisco. It is a magic moment when designer can draw virtual on a screen. The disappointed thing is that, at that time, you can only print in the printer with very limited size. The first and only drawing software they used is the ???CAD, which is ???.  The next advanced CAD software they are using is Vectorworks in 1996. SketchUp was brought into office in 2004 by Chris Walker, since he believe it is really easy and friendly software for designer who don't know how to use 3D software to learn and use. They kept using sketchup until now.
+
 Landscape Architecture industry in these 20 years, is growing fast and is recognized as a mature market globally. However, the design process and the design tool for most of the landscape architecture firms has not changed much. With the aggressive internet / information blooming and technology advancement, tons of amazing new tools has been created in different diverse fields. These tools would highly improve the efficiency and experience of design working process. However, most of the professional practice or even academic has never heard about these tools exist. 
 
 In this book, we will introduce you these useful tools and related practical skills.
