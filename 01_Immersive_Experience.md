@@ -4,15 +4,19 @@
 
 simulation is an important activities for human's development and designer's creative ideas. Design ideas need simulation as the material and drawing boards to start with, so we build base maps, concept models. While, it also needs the simulation to represent the design ideas, like perspective drawing and construction document. Without simulation process, design is just a vague thoughts. Computer virtual simulation it one of the most important simulation technology. It had been heavily used at military and industry. With the computing technology hugely improved, the computer simulation has been used broadly in movie and game industry to enhance the people's sensation and experience. Immersive is the word to describe the future simulation experience.
 
+Since the heat of VR(Virtual Reality) technology and the new VR devices, Oculus published, many fields of design started thinking VR as a new possibility. In industry, Architecture and Landscape Architecture firms take the first step to experiment with VR in next few years. It is an exciting moment for the designers who wish to embrace the new technologies and adventures(experiments/exploration). Would the VR be the new revolution same as the time when computer populate in Landscape fields? It may need more a long time to respond this question.  
+
+In the first part of the book, various of cutting-edge simulation technologies will be introduced, including Virtual Reality, Augmented Reality, Mixed Reality. From history, definition to applications and possibilities in Landscape, and case studies, this chapter will guide designer to the world of modern design technologies step by step. 
+
 #### Chapter 1: Virtual Reality
 
 ##### 1.1 Introduction and History of Virtual Reality 
 
-Definition: he computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.
+Definition: the computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.
 
-Virtual Reality becomes the real heat since 2015. ...........
+If you haven't experience virtual reality before, here is my personal definition after I first time trying VR: Virtual Reality normally indicate a device with headset goggle (sometime also has a controller), which can create a visually and sonically (audio?) closed 3-dimensional virtual environment for audience. Your view and hearing directions within the goggle are synchronously responding to your head rotating and moving. It feels like you are in the virtual world. With the controller, you can move your locations and interact (not limited to create, remove, edit, grab, hit, throw, touch, trigger) with virtual object according to the program / game it running with. 
 
-With development of faster computer and powerful graphic engine,  virtual reality technology becomes much mature and effective in recent years. Since the these devices and technologies have been broadly brought to market, it becomes possible even for common people to afford using these powerful machine, and experience highly immersive virtual experience. 
+The current VR naturally sounds like a gaming and movie (entertainment) industry products according to its function and target group. However, it comes a long way before it populating to the public. 
 
 The very first idea of it was presented by Ivan Sutherland in 1965: “make that (virtual) world in the
 window look real, sound real, feel real, and respond realistically to the viewer’s actions”
@@ -24,6 +28,12 @@ Research of Virtual Reality History Chart
 1965 The Ultimate Display
 
 .... (Refer to Virtual Reality: History, Applications, Technology and Future)
+
+
+
+Virtual Reality becomes the real heat since 2015. ...........
+
+With development of faster computer and powerful graphic engine,  virtual reality technology becomes much mature and effective in recent years. Since the these devices and technologies have been broadly brought to market, it becomes possible even for common people to afford using these powerful machine, and experience highly immersive virtual experience. 
 
 
 
