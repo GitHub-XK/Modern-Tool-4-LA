@@ -8,6 +8,8 @@ Chapter 6: Open Street Map
 
 6.1.1 What is Open Street Map(OSM)?
 
+Ten years ago, paper map still was the major resource that provides accurate geographic and traffic information. Wherever you go, wherever you drive, a paper map is necessary for guiding the trip. The information from the internet was still very limited. Landscape architecture was getting the site information from the government, library, and related agency? As a generation of internet, I started my landscape career with rich public resource on the internet, especially by using google earth, online university library and some government website. However, sometimes, we still could not find information we need online, and had to find them on books and maps. Since the heat of big data and information boost on the internet in past five years. The most update, most accurate geographic information, all could be found on the internet with some efforts to dig it out. Beside google earth, there are way many new ways to get various data you want. And these new methods are seldom known by landscape architects. 
+
 OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. The geodata underlying the map is considered the primary output of the project. The creation and growth of OSM has been motivated by restrictions on use or availability of map data across much of the world, and the advent of inexpensive portable satellite navigation devices. OSM is considered a prominent example of volunteered geographic information. (https://en.wikipedia.org/wiki/OpenStreetMap)(https://wiki.openstreetmap.org/wiki/About_OpenStreetMap)
 
 6.1.2 Open Street Map vs. Google Map
