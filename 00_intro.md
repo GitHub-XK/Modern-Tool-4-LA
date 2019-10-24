@@ -4,13 +4,39 @@
 
 
 
-When first time landscape architecture firm bought a computer (Example of David Walker), It was the turning point / revolution of how could designer express their ideas. Instead of close accurate hand drawing and rendering, you could simply draw standard infinite accurate shapes ,then drag, rotate and duplicate. David Walker said, in the day he graduate from Rhode Island School of Design in 1992. He was going to talk about what was his plan after graduation with Colgate, the department head of Landscape Architect in RISD. When David walked into his office, Colgate was sitting in front of two cubes with black and white screen, which are the first Macintosh computer and first personal computer. "What are you going to do with these machines?" David asked. "I don't know." Colgate said. When David graduate from GSD, he bring the first computer to the office of PWP Landscape Architecture in San Francisco, and decided not to draw the grid lines by hand hundred times in the project of .... Why not just draw and duplicate by single click. It is a magic moment when designer can draw virtual on a screen. The disappointed thing is that, at that time, you can only print in the printer with very limited size. The first and only drawing software they used is the ???CAD, which is ???.  The next advanced CAD software they are using is Vectorworks in 1996. In 2000, 3D modeling software start populate in Landscape Firms. SketchUp was brought into office in 2004 by Chris Walker, since it is believed to be a really easy and friendly software for the designer who don't know how to use 3D software to learn and use. They kept using sketchup until now. 
+When first time landscape architecture firm bought a computer (Example of David Walker), It was the turning point / revolution of how could designer express their ideas. Instead of close accurate hand drawing and rendering, you could simply draw standard infinite accurate shapes ,then drag, rotate and duplicate. David Walker said, in the day he graduate from Rhode Island School of Design in 1992. He was going to talk about what was his plan after graduation with Colgate, the department head of Landscape Architect in RISD. When David walked into his office, Colgate was sitting in front of two cubes with black and white screen, which are the first Macintosh computer and first personal computer. "What are you going to do with these machines?" David asked. "I don't know." Colgate said. When David graduate from GSD, he bring the first computer to the office of PWP Landscape Architecture in San Francisco, and decided not to draw the grid lines by hand hundred times in the project of .... Why not just draw and duplicate by single click. It is a magic moment when designer can draw virtual on a screen. The disappointed thing is that, at that time, you can only print in the printer with very limited size. The first and only drawing software they used is the ???CAD, which is ???.  The next advanced CAD software they are using is Vectorworks in 1996. In 2000, 3D modeling software start populate in Landscape Firms. SketchUp was brought into office in 2004 by Chris Walker, since it is believed to be a really easy and friendly software for the designer who don't know how to use 3D software to learn and use. They kept using SketchUp until now. 
 
 Landscape Architecture industry in these 20 years, is growing fast and is recognized as a mature market globally. However, the design process and the design tool for most of the landscape architecture firms has not changed much. With the aggressive internet / information blooming and technology advancement, tons of amazing new tools has been created in different diverse fields. These tools would highly improve the efficiency and experience of design working process. However, most of the professional practice or even academic has never heard about these tools exist. 
 
-Since these new tools are mainly build for computer science / internet industry which is a extremely fast growing field, few of them could get connections with landscape architects. Landscape architecture is a multidisplinary profession that needs to obsorb and process broadly diversed information, and create reasonable design solution accordingly. Information and design tools are essential for succes of a project. However, the tools landscape designer using currently are so limited, and not changed much along the time, which always constrains landscape architects' working effeciency, project quality and creative imagination. There are great barriers, also great potentials between the landscape field and fast growing technology world, and between designers who using traditional tools and an open mind to imbrace and enthuiastic to study the cutting-edge new skills. 
+Since these new tools are mainly build for computer science / internet industry which is a extremely fast growing field, few of them could get connections with landscape architects. Landscape architecture is a multidisplinary profession that needs to absorb and process broadly diverse information, and create reasonable design solution accordingly. Information and design tools are essential for success of a project. However, the tools landscape designer using currently are so limited, and not changed much along the time, which always constrains landscape architects' working efficiency, project quality and creative imagination. There are great barriers, also great potentials between the landscape field and fast growing technology world, and between designers who using traditional tools and an open mind to embrace and enthusiastic to study the cutting-edge new skills. 
 
 In this book, I will introduce you many useful tools that you may barely heard and related practical skills. Tutorials and step by step guides will be provided in each tools. 
+
+
+
+##### Talk about the trend when everybody wants to switch jobs to computer science or start up.
+
+Start up stories inspire our new generations very much. The first era of start up heat, especially about internet raise many legends of star are like Zac Boger, .... The recent wave of start up populate in all different fields and groups. Famous as Uber, AirB&B, Dashdoor, Blue Apron. While, there are millions new ideas trying to become realistic by efforts of people who dare to  step out of the ideas and make the world change. In a larger perspective, it becomes a most important way to change the world beside academic breakout. I have been the moments that thinking/excited about some strange ideas all night without sleep. I guess many people may have same situation/feelings with me. Everyone could potentially be a business people. However, It does not mean you can startup anything and success. The most ideal situation about startup is doing the things you know the best and enthusiastic about. As a landscape architecture profession, it is not impossible to do startup, especially when it combining and integrating with current popular technology. For example: 3D printing, Bio-material, Artificial intelligence, VR, AR, Distributed business model, all kinds of social media and so on. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Part 1: Immersive Experience (Visualization & Spatialization)
 
