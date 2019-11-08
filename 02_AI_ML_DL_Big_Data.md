@@ -6,7 +6,7 @@ Chapter 2: AI, ML, DL, Big Data
 
 As a designer, my beginning understand of Artificial Intelligent is a robots as smart as human. This technology sounds obscure to understand and far from designer's daily job and life. It is a branch of computer science which is very different from design or natural science field. However, we used this technology almost everywhere in our life. For example, the auto drive car, the Amazon recommend advertisements, the weather forecast prediction, the postal code recognize system from postal office, and all the voice assistance like Siri, google assistant, Alexa. They are all artificial intelligence. There is huge potential that AI will broadly be employed by every industry and replace most of the human labor, especially in financial industry. Landscape design field will not escape this revolution. Imagine in the future, artificial intelligent program could provide the best design solutions and various design styles with simple input of big data of the site. It is important to understand this technology and its possibilities as a temporary designer facing the pressure of application of new technology.
 
-Let's start with the definition and brief history of Artificial Intelligent. Artificial Intelligent basically is ... . The concept became popular because of the Alpha go win the game with xiangqi master. It was saw as a monument of articial Intelligent. 
+Let's start with the definition and brief history of Artificial Intelligent. Artificial Intelligent basically is ... . The concept became popular because of the Alpha go win the game with international chess master. It was considered as a monument of articial Intelligent. 
 
 What is the Tuling Test? ...
 
@@ -16,15 +16,23 @@ What is the Tuling Test? ...
 
 These are the popular words often pop up in the highlight title of the news. What are they? and How does it relate to our daily life?
 
-Artificial Intelligent(AI):
+Artificial Intelligent(AI): a. a branch of computer science dealing with the simulation of the intelligent behavior in computer. b. the capability of a machine to imitate intelligent human behavior. ([https://www.merriam-webster.com/dictionary/artificial%20intelligence](https://www.merriam-webster.com/dictionary/artificial intelligence))
 
-Machine Learning(ML):
+Machine Learning(ML): a subset of artificial intelligence. It is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. (https://en.wikipedia.org/wiki/Machine_learning)
 
-Deep Learning(DL):
+Deep Learning(DL): also known as deep structured learning or hierarchical learning, is part of a broader family of machine learning methods based on artificial neural networks. Learning can be supervised, semi-supervised or unsupervised. (https://en.wikipedia.org/wiki/Deep_learning)
 
-Big Data:
+Big Data: is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with traditional data-processing application software. (https://en.wikipedia.org/wiki/Big_data)
 
-Data Science:
+Data Science: is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. (https://en.wikipedia.org/wiki/Data_science)
+
+
+
+A more vivid example to illustrate these concepts. AI is more like a robot that simulate human behavior and replacing labor works. ML is studying how the programming logic works so the robots could be smarter. DL is one of the ML methods based on neural networks. Big Data basically is a large amount of exercise that trains robot smart and accurate. Data Science processes big data to be accurate, concise, organized, and easy to understand for both human and robots. 
+
+If we see the big data is raw food, today is the era of world cornucopia since the advancement of smart phone and internet. However, you can not eat these raw food directly. Data science is like big food company collecting big data, then cleaning, filtering, categorizing, transforming, packing these food that people can use or eat. AI is like human, their growth and population has to be based on the food resource. Once the AI is eating more accurate processed food, they become smarter and stronger, and could finish work fast and accurate. 
+
+
 
 A chart shows the relations of these terminologies: .... Chart/Graph
 
@@ -41,13 +49,15 @@ A chart shows the relations of these terminologies: .... Chart/Graph
 
 2.2 Application of Artificial Intelligent in Landscape Architecture
 
+Once we have a general idea of these items, we could start to think about how landscape could be impacted, or married with them. Following are some interesting landscape projects related to AI or Big Data
+
 2.2.1 SWA: Live and Learn(https://landscapearchitecturemagazine.org/tag/artificial-intelligence/)
 
 2.2.2 Bradley Cantrell explores what artificial intelligence could mean for Mother Earth (https://www.gsd.harvard.edu/2017/02/bradley-cantrell-explores-what-artificial-intelligence-could-mean-for-mother-earth/)
 
 2.2.3 Landscape-freestyle: restyling site plans for landscape architecture with machine learning(https://www.researchgate.net/publication/331427749_Landscape-freestyle_restyling_site_plans_for_landscape_architecture_with_machine_learning)
 
-2.2.4 Using Street-level Images and Deep Learning for Urban La ndscape STUDIES (http://journal.hep.com.cn/laf/EN/10.15302/J-LAF-20180203#1)
+2.2.4 Using Street-level Images and Deep Learning for Urban Landscape STUDIES (http://journal.hep.com.cn/laf/EN/10.15302/J-LAF-20180203#1)
 
 
 
@@ -75,7 +85,11 @@ According to the survey, there is only 5% chance that Artificial intelligence wi
 
 There are several papers discussing this question: will AI replace traditional designer's job? Let's see what these reporter think. ...
 
-Living in the current situation, what is the best move for a landscape architecture designer? What my suggested is keep learning and keep updating your self, be sensitive and welcome the new trend in the field would be a wise behavior. 
+Living in the current situation, what is the best move for a landscape architecture designer? What my suggested is keep learning and keep updating yourself, be sensitive and welcome the new trend in the field would be a wise behavior. 
+
+Even technology is advance, application of technology and public access are unpredictable, and usually take decades to achieve, or even fail to be accepted.
+
+
 
 
 
