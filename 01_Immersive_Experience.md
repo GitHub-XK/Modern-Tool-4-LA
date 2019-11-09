@@ -49,7 +49,7 @@ AR stands for Augmented Reality, it is basically a technology that overlay the p
 
 images
 
-Similar to AR, Mixed Reality(MR), is the merging of real and virtual worlds to produce new environments where physical and digital objects co-exist and interact in real time. Holo Lens in one of the MR products.
+Similar to AR, Mixed Reality(MR), is the merging of real and virtual worlds to produce new environments where physical and digital objects co-exist and interact in real time. Holo Lens in one of the MR products. An example of MR project is [Architectural Solar Analysis Tool for Microsoft Hololens](https://coarchitects.com/basics-an-architectural-solar-analysis-tool-for-microsoft-hololens/). 
 
 images
 
@@ -67,7 +67,21 @@ The trend in 2020, VR would be generally populate through different industry. AR
 
 ##### 1.3 Applications of VR
 
-1.3.1 Data and Architectural Visualization
+VR could be used in many areas in industry and daily life. It started with inventions, scientific experiments. The first field has large demand is millitary and nasa.  In the end of the 20th, there is a heat of VR in game industry, but not last long since the expensive price and the lack of powerful computer and graphic technology. After the Oculus, many field start to experiment and use it as an import tools. Especially in Architecture, Gaming, Movie, Medicine and Education field. 
+
+1.3.1 Architectural Visualization
+
+5 Steps to Make VR a Reality in Your Practice By MICHAEL KILKELLY (https://www.architectmagazine.com/technology/5-steps-to-make-vr-a-reality-in-your-practice_o)
+
+((CO Architects discovered that VR helps fill in unknowns during the design process. Exploring a concept model in a fully immersive environment allows architects and clients to understand it better. Likewise, VR lets designers test different options at full-scale early in the process. VR also has visceral appeal. “Not everyone can read drawings,” says CO principal Eyal Perchik, AIA, “but everyone can relate to VR.” In the firm's VR mock-ups of complex lab and healthcare spaces, doctors and nurses could virtually work in a space, testing its layout and scale long before it's constructed. Currently, all projects at CO employ VR in some capacity.
+
+[Hickok Cole Architects](http://www.hickokcole.com/) in Washington, D.C., began exploring VR through its in-house [iLab](http://www.hickokcole.com/ilab/research-innovation/) program, which provides micro-grants for employees to research new ideas and technologies. Recipients Carlyn Luu, a project architect, and Howard Mack, a design technology specialist, explored potential applications of VR tools in design, presentation, and marketing. In design, Luu and Mack used VR to highlight unresolved issues at the forthcoming [International Spy Museum](https://www.spymuseum.org/), for which Hickok Cole is the architect of record. By sharing the VR model with the client, they realized that they could not curate carefully styled views of the project as they could with conventional 3D renderings—the client could explore the model however they saw fit. Hickok Cole is currently using VR on three projects with plans to roll it out on more projects soon.))
+
+
+
+
+
+
 
 1.3.2 Modeling, Designing and Planning
 

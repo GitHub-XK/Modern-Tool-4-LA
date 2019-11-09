@@ -2,6 +2,8 @@ Chapter 5: Parametric Design / Modeling
 
 5.1 Introduction to Parametric Design / Modeling
 
+Basically, all the computer aided design (CAD) could also be seen as a domain of parametric design. You can not see the parametric since it manipulates and renders through visual graphics. 
+
 5.1.1 Definition of Parametric Design and History of Parametric Design
 
 5.1.2 Software related to Parametric Design
