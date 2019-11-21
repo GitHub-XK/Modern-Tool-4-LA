@@ -8,7 +8,7 @@ As a designer, my beginning understand of Artificial Intelligent is a robots as 
 
 Let's start with the definition and brief history of Artificial Intelligent. Artificial Intelligent basically is ... . The concept became popular because of the Alpha go win the game with international chess master. It was considered as a monument of articial Intelligent. 
 
-What is the Tuling Test? ...
+(What is the Tuling Test? ...)
 
 
 
@@ -59,6 +59,14 @@ Once we have a general idea of these items, we could start to think about how la
 
 2.2.4 Using Street-level Images and Deep Learning for Urban Landscape STUDIES (http://journal.hep.com.cn/laf/EN/10.15302/J-LAF-20180203#1)
 
+2.2.5 Image Cut Out Tool: Using the AI to cut out trees, people in one click, it is much accurate and faster then manually cutout or photoshop cutout. There are several tools online you can use: 
+
+- [[remove.bg]](https://www.remove.bg/): It is a program using AI/ML to remove the background of a image. Comparing to tradition methods, it only needs 5 seconds to generate the output with one click, or several lines of code. Once you sign up the account, you can generate an API key which could have 50 times cutout preview per month. No drawing, no selection, the process is totally automatically. The result is amazing and high quality.
+
+2.2.6 
+
+
+
 
 
 2.3 Related Tools and Tutorial
@@ -72,6 +80,10 @@ Python: We are not teaching you how to Program with Python, but telling you what
 TensorFlow and Keras: supposed we have some basic knowledge about python. We will do a small project to identify landscape images by tensorflow and keras framework.
 
 2.3.2 Direct AI Tools we could use
+
+
+
+If you do not like coding or programming, there are still powerful tools built from AI that you can directly use from website or software without knowing or learning how it works. The tools relevant to landscape architecture are mostly image/video processing tools, space/pattern making tools, and geographic information tools. The others ma 
 
 A list of artificial intelligence tools you can use today (https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
