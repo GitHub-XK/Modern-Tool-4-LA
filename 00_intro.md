@@ -124,7 +124,8 @@ Cnc, 3d printing, bio material, fabric, metal...
   - Recycled Material
   - ...(need research)
 - 4.3 Modern Fabrication Machine and Quick Guilds
-  - ... (need research)
+  - ... (need research) 3D Printing
+  - CNC
 - 4.4 Traditional Construction Tech vs. Modern Fabrication: New Construction Standard?
 
 ##### Chapter 5: parameter modeling/ Parametric Design, def, type, example, new technologies of parameter modeling.(??? Need ???)
@@ -218,7 +219,6 @@ Introduction: Landscape architecture design can not build without accurate infor
 ##### Chapter 11: Other Useful Tool for Landscape Architecture
 
 - Land Design Plugin for Rhino
-- Vectorworks
 - 
 
 ### Conclusion 

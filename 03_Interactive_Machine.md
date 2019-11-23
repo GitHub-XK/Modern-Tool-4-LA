@@ -8,7 +8,7 @@ As a landscape architect, understanding how these machine work and what these in
 
 3.1.1 Introduction of Single-Board Microcontroller
 
-What is single-board microcontroller? An single-board microcontroller includes ... Basically, it is a mini computer. How a single-board microcontroller work? It can hook up the machine as out put, sensor or switch as input. Then the program designer will code the program, write into the board. According to the programming code designer converting in, the single-board microcontroller will add input signal(from sensor or switch) as parameter to the program then output some signal to control how the machine move or work. It is principle just like the graph showing below:
+What is single-board microcontroller? An single-board microcontroller is a microcontroller built onto a single printed circuit board. Basically, it is a mini computer that can store and reading codes, and operate according to the code. It can hook up the machine as out put, sensor or switch as input. Then the program designer will code the program, write into the board. According to the programming code designer converting in, the single-board microcontroller will add input signal(from sensor or switch) as parameter to the program then output some signal to control how the machine move or work. It is principle just like the graph showing below:
 
 3.1.2 The most popular open-source single-board microcontrollers in the market and tech field are Arduino and Raspberry Pi. Followings are brief introductions to these products:
 
@@ -19,8 +19,6 @@ Raspberry Pi: The Raspberry Pi is a low cost, credit-card sized computer that pl
 Arduino vs. Raspberry Pi
 
 https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/
-
-
 
 
 

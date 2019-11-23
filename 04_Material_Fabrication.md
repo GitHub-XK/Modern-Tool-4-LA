@@ -52,7 +52,17 @@ History of Fabrication
 
 3D Printing Material Choose(https://all3dp.com/1/3d-printing-materials-guide-3d-printer-material/)
 
+First step of 3D printing is preparing the digital model. The most important principle is to make your model watertight, which means your model should be a complete closed volume without any gaps, holes or no-volume surfaces. No matter what 3D modeling software you using, you should always prepare you model watertight in order to successfully transform to the format that 3D printer can recognize and print.
 
+After you repairing the model, the next step is to check the size of your model and the printer's limitation of how large the model could be. If your model exceed the limit, you will have to either scale your model down, or split your model into different pieces.
+
+Then export you 3D model to .stl (stereolithography) format. (The export options could be different from software to software, check online for specific export option). 
+
+Download and install the latest 3d printing software [[Ultimaker Cura]](https://ultimaker.com/software/ultimaker-cura) on your system. Run Cura, set up Cura according to your printer's model.
+
+From Cura, open the .stl model you just exported. Then you will see you model in a virtual printer space. 
+
+Adjust the printing settings (infill, layer height, adhesion, support structure... ) according to your model. For example, the large model 
 
 
 

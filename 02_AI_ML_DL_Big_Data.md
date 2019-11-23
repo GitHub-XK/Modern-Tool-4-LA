@@ -63,8 +63,6 @@ Once we have a general idea of these items, we could start to think about how la
 
 - [[remove.bg]](https://www.remove.bg/): It is a program using AI/ML to remove the background of a image. Comparing to tradition methods, it only needs 5 seconds to generate the output with one click, or several lines of code. Once you sign up the account, you can generate an API key which could have 50 times cutout preview per month. No drawing, no selection, the process is totally automatically. The result is amazing and high quality.
 
-2.2.6 
-
 
 
 
@@ -83,7 +81,7 @@ TensorFlow and Keras: supposed we have some basic knowledge about python. We wil
 
 
 
-If you do not like coding or programming, there are still powerful tools built from AI that you can directly use from website or software without knowing or learning how it works. The tools relevant to landscape architecture are mostly image/video processing tools, space/pattern making tools, and geographic information tools. The others ma 
+If you do not like coding or programming, there are still powerful tools built from AI that you can directly use from website or software without knowing or learning how it works. The tools relevant to landscape architecture are mostly image/video processing tools, space/pattern making tools, and geographic information tools. The others maybe also helpful indirectly to design projects.
 
 A list of artificial intelligence tools you can use today (https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 
@@ -99,7 +97,7 @@ There are several papers discussing this question: will AI replace traditional d
 
 Living in the current situation, what is the best move for a landscape architecture designer? What my suggested is keep learning and keep updating yourself, be sensitive and welcome the new trend in the field would be a wise behavior. 
 
-Even technology is advance, application of technology and public access are unpredictable, and usually take decades to achieve, or even fail to be accepted.
+Even technology is advance, application of technology or public access are unpredictable, and usually take decades to achieve, or even fail to be accepted. The era of AI may never come true. However, it may also come really fast. Be knowledgeable, be welcoming will definitely help to prepare for the unknown of the future. 
 
 
 

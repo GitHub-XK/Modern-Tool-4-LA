@@ -232,15 +232,18 @@ Unity3D Guide:
 - Import as solid???
 - Directly drag the converted dea or fbx into Unity model space, or ....
 - Click on the asset store tab, search the standard asset...
-- 
-
-
-
-
 
 
 
 **Unreal Engine**:
+
+
+
+**Summary**
+
+Landscape Architects are definitely worth to trying and applying these awesome visualization technologies. They are bringing another level of design experience and quality for designers and clients. They have been broadly spread on the internet and market. And it is barrier-free process from traditional 3D model to an immersive experience. Learning is needed for new knowledge. However, its potential value for efficient design and high quality presentation is tremendous. 
+
+Currently, some clients and architecture firms requires the VR or AR presentation of the project. Some techy person in the firm brought VR into the office and experiment it during the design. It is the trend of the industry. The firms or designers who have this skill will be much competitive in the market. 
 
 
 
