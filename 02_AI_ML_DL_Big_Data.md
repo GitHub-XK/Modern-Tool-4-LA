@@ -77,9 +77,9 @@ Python: We are not teaching you how to Program with Python, but telling you what
 
 TensorFlow and Keras: supposed we have some basic knowledge about python. We will do a small project to identify landscape images by tensorflow and keras framework.
 
+
+
 2.3.2 Direct AI Tools we could use
-
-
 
 If you do not like coding or programming, there are still powerful tools built from AI that you can directly use from website or software without knowing or learning how it works. The tools relevant to landscape architecture are mostly image/video processing tools, space/pattern making tools, and geographic information tools. The others maybe also helpful indirectly to design projects.
 
