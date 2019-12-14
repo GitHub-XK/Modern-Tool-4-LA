@@ -1,9 +1,12 @@
 # Modern-Tool-4-LA
+![Version](https://img.shields.io/badge/beta-0.0.7-yellow)![Download](https://img.shields.io/badge/download-0-red)
+![License](https://img.shields.io/badge/license-GNU%203.0-green)
+
 Modern Tool for Landscape Architecture - A book introduces the modern technologies and applications to landscape architecture design, extends designers' horizon to the fast pacing technology and internet world. Virtual Reality, Augmented Reality, Artificial Intelligent, Big Data, Interactive / Sensorial Design, Open Source,  3D Fabrication... 
 
 
 
-### Overview
+## Overview
 
 Type: Book
 
@@ -27,9 +30,38 @@ Project End Date: 8/26/2019
 
 
 
-### Contents
+## Contents
+
+- 00 Intro
+- 01 Immersive Experience
+- 02 AI ML DL Big Data
+- 03 Interactive Machine
+- 04 Material Fabrication
+- 05 Parametric Design
+- 06 Open Street Map
+- 07 Mapbox
+- 08 QGIS
+- 09 ESRI
+- 10 Data Visualization
+- 11 Other Tools
 
 
+
+## Revisions
+
+\#### 06/16/19 Beta 0.0.0: Start Project Concept and Respository on Github
+
+\#### 08/26/19 Beta 0.0.1: Keep working on Intro, start Chapter 1
+
+\#### 09/06/19 Beta 0.0.2: Start Chapter 2, 3, 4, 5, 6, 7
+
+\#### 10/09/19 Beta 0.0.3: Update 01 and Intro
+
+\#### 11/12/19 Beta 0.0.4: Update 00 01 02
+
+\#### 11/22/19 Beta 0.0.5: Add rest of the chapter 08, 09, 10, 11
+
+\#### 12/13/19 Beta 0.0.6: Update 03 04 07
 
 
 

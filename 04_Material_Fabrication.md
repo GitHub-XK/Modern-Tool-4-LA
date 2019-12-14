@@ -1,8 +1,18 @@
 Chapter 4: Material Fabrication
 
+Physical modeling is one of the best way to exam or represent spatial quality or material of landscape design before constructing in the real world. In school, we were encouraged to make physical model along the design process. What the very different from computer modeling is that physical model could hardly be very accurate, and it has strict limitation of physical principle considering material and environment. The other thing about physical model is that the tactile of materiality can connect more sensor of human to make the design much convincing. 
 
+In the modern world, physical modeling does not only mean building a model by bare hands and raw material. The modeling process could also be finished by machine / computer. **Digital fabrication** is the term to express such industry. 
+
+"Digital fabrication is a design and manufacturing workflow where digital data directly drives manufacturing equipment to form various part geometries. This data most often comes from CAD (computer-aided design), which is then transferred to CAM (computer-aided manufacturing) software. The output of CAM software is data that directs a specific machine, like a 3D printer or CNC milling machine."
+
+Fab Lab (Fabrication Laboratory) become a popular trend among some design firms or engineer firms. Some famous fabrication labs include MIT Media Lab, and Autodesk Fab Lab. The best fabrication lab in landscape architecture I have ever seen is Z + T Studio and Snohetta. IMG IMG
+
+[The Future of 'Fab Lab' Fabrication](https://www.wired.com/story/the-future-of-fab-lab-fabrication/)
 
 4.1 Introduction to Fabrication Technology
+
+[Digital Fabrication 101](https://formlabs.com/blog/digital-fabrication-101/)
 
 4.1.1 What is the Fabrication Technology?
 
@@ -16,6 +26,8 @@ History of Fabrication
 - Laser Cutting
 - Powder Coating? (https://www.powdercoating.org/page/WhatIsPC)
 - 3D Printing (https://www.3dhubs.com/guides/3d-printing/)
+- 3D Scanners
+- Laser Engravers (Laser Cutting)
 
 4.1.3 What materials we can use for fabrication?
 
@@ -30,15 +42,21 @@ History of Fabrication
 
 4.2 Application of Fabrication Technology in Landscape Architecture
 
-4.2.1 3D Printing Example
+4.2.1 3D Printing Example [[Biodegradable 3D Printed Architectural Installation Will Become A Micro-Habitat For Plants And Insects]](https://www.vice.com/en_uk/article/kbneyv/biodegradable-3d-printed-architectural-installation-will-become-a-micro-habitat-for-plants-and-insects)
 
-4.2.2 Robot Arm Build Example
+[[A 3D-Printed Installation, Made With Sustainable Bioplastics]](https://www.metropolismag.com/architecture/arthur-mamou-mani-conifera-cos-installation/)
 
-4.2.3 Bio-material Structure (Bioprinting: https://en.wikipedia.org/wiki/3D_bioprinting)
+[[Which Architect Is Winning The 3D Printing Rat Race?]](https://popupcity.net/which-architect-is-winning-the-3d-printing-rat-race/)  Enrico Dini: Concrete Small House; DUS in Amsterdam: 3D-printed canal house; Qingdao Unique Products Develop Co Ltd:  Temple of Heaven - Graphene Glass Fiber Reinforced Plastic; WinSun Decoration Design Engineering Co: layers of concrete partly made from construction waste to print small village house;  Professor Behrokh Khoshnevis: 
 
-4.2.4 Recycled Material
+4.2.2 Robot Arm Build Example ? Same thing with 3D printing?
 
-.....
+4.2.3 Bio-material Structure (Bioprinting: https://en.wikipedia.org/wiki/3D_bioprinting) [[The world's first 3D Printed biodigital living sculputers featuring at the Centre Pompidou in Paris]](https://www.3dwasp.com/en/the-worlds-first-3d-printed-biodigital-living-sculputers-featuring-at-the-centre-pompidou-in-paris/)
+
+[5 Futuristic Materials That Could Reshape Architecture and Design](https://www.metropolismag.com/architecture/transmaterial-advanced-materials-design-architecture/)
+
+
+
+4.2.4 Recycled Material ???
 
 
 
@@ -62,7 +80,13 @@ Download and install the latest 3d printing software [[Ultimaker Cura]](https://
 
 From Cura, open the .stl model you just exported. Then you will see you model in a virtual printer space. 
 
-Adjust the printing settings (infill, layer height, adhesion, support structure... ) according to your model. For example, the large model 
+Adjust the printing settings (rotation, infill, layer height, adhesion, support structure... ) according to your model. Then click slice, it will translate your model in to 3d printable model, and you can review how it actually will print layer by layer in preview tab by scrolling the slide.
+
+Export the translated model(.gcode format) into your sd card or directly to your printer if wireless connection is available to your 3d printer. 
+
+On your 3d printer, before print, make sure the printing bed is level in any spots, and the distance between printer nozzle and bed is about the thickness of a  paper, check the tutorial [[How to level the printing bed by a piece of printing paper]](...).
+
+Check the specifics of your filament, set the nozzle temperature and bed temperature according. If the printing is not as fluent as you think, double check if your heating bed is level or if the nozzle and bed temperature is right. Adjust the 3d printing model setting or printer setting to make sure the output is smooth and even.
 
 
 
