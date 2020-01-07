@@ -63,5 +63,4 @@ Project End Date: 8/26/2019
 
 \#### 12/13/19 Beta 0.0.6: Update 03 04 07
 
-
-
+\#### 01/06/20 Beta 0.0.7: Add contents in chapter 06, and presentation schedule

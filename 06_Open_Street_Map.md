@@ -24,13 +24,49 @@ OpenStreetMap (OSM) is a collaborative project to create a free editable map of 
 
 6.2.1 Export Data & Analysis Data Format
 
+First step is to get the Open Street Map Data directly from the website: [https://www.openstreetmap.org/](https://www.openstreetmap.org/). Search or zoom in the area you want to get data from, then click "Export" on the top left corner. The left page will show the range you select. Adjust the area, then click the blue "Export" button to download. If the blue "Export" button is not showing, it maybe meaning that the area you selecting is too big that exceed the export limit. You could either select a smaller area or download through "Overpass API". The expected format of the data file that you will download is ".osm". Once downloaded the osm file, it could be imported into different drafting or modeling software.
+
 6.2.2 OSM to AutoCAD
+
+AutoCAD is the most popular design drafting tool in the industry. However, there is no direct way to import .osm file to AutoCAD. The easiest way I found is to convert the .osm file to .dwg through some website like:
+
+[https://mygeodata.cloud/converter/osm-to-autocad](https://mygeodata.cloud/converter/osm-to-autocad)
+
+You could also directly extract, convert and download data in dwg format through this website instead of the openstreetmap website:
+
+https://mygeodata.cloud/osm/data/download/
+
+There is another convenient tool built based on open street map, CADMapper. You can directly download the site data in .dfx format through CADMapper. However, it is not free when your selected area is larger than 1 km2. 
+
+https://cadmapper.com/
+
+
 
 6.2.3 OSM to Rhino Grasshopper Elk
 
+OSM also could be used as a base in 3d modeling software such as Rhino and Revit. In Rhino, there is a specific plugin, named Elk, to import and extract data from the .osm file through Grasshopper.
+
+Rhino6 has native Grasshopper integrated, however rhino5 does not. Make sure the grasshopper is correctly installed for your Rhino. Then download and install the plugin "Elk" in [https://www.food4rhino.com/app/elk](https://www.food4rhino.com/app/elk). 
+
+Open the Rhino, then open the Grasshopper. Find out where is the Elk menu located (It is usually located under "Extra" tab). Double click the blank working area, search and add "File Path" component. Right click "File Path" component to "Set One File Path", choose the .osm file we just downloaded. Then, add the components of "Location" and "OSMData" under the Elk menu. Connect the "File Path" to "Location", and connect the "Location" to "OSMData". ...PENDING
+
 6.2.4 OSM to Revit Dynamo
 
-6.2.5 OSM to GIS
+Similar to Rhino, Revit needs Dynamo and Dynamo's Plugins to import OSM. The workable Dynamo's Plugins include: [[Elk for Dynamo / OSM to Mass]](https://dynamonodes.com/2016/04/26/workflow-building-masses-from-osm-files/#more-2229), [[DynaMap]](https://dynamobim.org/dynamaps/). 
 
-6.2.6 OSM to SketchUp?
+6.2.5 OSM to QGIS
+
+QGIS can directly import OSM as vector data, and categorize the data according to types like points, lines, and polylines.
+
+6.2.6 OSM to SketchUp
+
+There are multiple plugins could help SketchUp to import OSM data:
+
+[[Sketchup-OSM-Importer]](https://github.com/m93a/Sketchup-OSM-Importer)
+
+[[skp2osm]](https://wiki.openstreetmap.org/wiki/Skp2osm)
+
+[[Three Ways To Import OpenStreetMap Data In SketchUp]](https://www.youtube.com/watch?v=KKUGAZXU4dY)
+
+
 

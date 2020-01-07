@@ -10,7 +10,9 @@ Mapbox is the location data platform for mobile and web applications. We provide
 
 In another word, Mapbox can help you customize your map, and apply it into your website, smart phone application, games, augmented reality... 
 
-Since it mainly sold to technology or internet related companies, how could it used by landscape architects? While, your could think it as an GIS beautification tool, like illustrator plus data of OpenStreetMap. It can make beautiful map base for project site analysis or master plan rendering. 
+Since it mainly sold to technology or internet related companies, how could it used by landscape architects? While, you could think it as an GIS beautification tool, like illustrator plus data of OpenStreetMap. It can make beautiful base map for project site analysis or master plan rendering. 
+
+
 
 7.1.2 Mapbox Studio - Styles, Tilesets, Datasets
 
@@ -24,22 +26,27 @@ In datasets, you could create new dataset by adding points, strings, polygons, i
 
 The final step to import customized data into styled map is to add the tileset into the styles you created by styles editor. 
 
-
-
 7.1.3 Examples of Mapbox Style
 
-[Mapbox Gallery](https://docs.mapbox.com/studio-manual/examples/) provides many beautiful style examples, for instance the Decimal, Blueprint, Ice Cream and so on. Check your favorite style, and build your own map from it.
+[Mapbox Gallery](https://docs.mapbox.com/studio-manual/examples/) provides many beautiful style examples, for instance the Decimal, Blueprint, Ice Cream and so on. Check your favorite style, and build your own map from it. 
 
 
 
 7.2 Simple Guild to Mapbox (https://docs.mapbox.com/)
 
-After brief introduction of Mapbox, a detailed tutorial will teach you how to build you map step by step.
+After brief introduction of Mapbox, a detailed tutorial will teach you how to build your own map step by step.
 
-7.2.1 Customized Map Style
+7.2.1 Add Customized Data
 
-7.2.2 Add Customized Data
+For example, you would like to create a map showing all the locations of died tree of an area. You could add customized point data with its properties like name, condition, species, and notes, on the existing map through Datasets of Mapbox Studio. Starting with a new dataset in Mapbox Studio, 
+
+7.2.2 Customized Map Style
 
 7.2.3 Add 3D Building
 
 7.2.4 Mapbox SDK in Unity
+
+
+
+Frequently Asked Question (FAQ)
+

@@ -4,9 +4,11 @@ Chapter 2: AI, ML, DL, Big Data
 
 2.1.1 Artificial Intelligent
 
-As a designer, my beginning understand of Artificial Intelligent is a robots as smart as human. This technology sounds obscure to understand and far from designer's daily job and life. It is a branch of computer science which is very different from design or natural science field. However, we used this technology almost everywhere in our life. For example, the auto drive car, the Amazon recommend advertisements, the weather forecast prediction, the postal code recognize system from postal office, and all the voice assistance like Siri, google assistant, Alexa. They are all artificial intelligence. There is huge potential that AI will broadly be employed by every industry and replace most of the human labor, especially in financial industry. Landscape design field will not escape this revolution. Imagine in the future, artificial intelligent program could provide the best design solutions and various design styles with simple input of big data of the site. It is important to understand this technology and its possibilities as a temporary designer facing the pressure of application of new technology.
+As a designer, my beginning understand of Artificial Intelligent is a robots as smart as human. This technology sounds obscure to understand and far from designer's daily job and life. It is a branch of computer science which is very different from design or natural science field. However, we used this technology almost everywhere in our life in this modern world. For example, the auto drive car, the Amazon recommend advertisements, the weather forecast prediction, the postal code recognize system from postal office, and all the voice assistance like Siri, google assistant, Alexa. They are all artificial intelligence. There is huge potential that AI will broadly be employed by every industry and replace most of the human labor, especially in financial industry. Landscape design may not be able to escape from this revolution. Imagine the future, artificial intelligent program could provide the best design solutions and various design styles with simple input of big data of the site and key words of design concept without any human efforts. There is no more designers but design developers instead at that time. As a temporary designer facing to the pressure of application of new technology, it is important to understand the trending technologies and their possibilities.
 
-Let's start with the definition and brief history of Artificial Intelligent. Artificial Intelligent basically is ... . The concept became popular because of the Alpha go win the game with international chess master. It was considered as a monument of articial Intelligent. 
+Let's start with the definition and brief history of Artificial Intelligent. "In computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans." Artificial intelligence was founded as academic discipline in 1956. It had "AI winter" in 1970s. In the early 1980s, the research was revived by the commercial success of expert systems. From late 1990s to early 21st century, AI began to successfully deployed for logistics, data mining, medical diagnosis and other areas. This concept became extremely hot in 2015, because of the AlphaGo beating a human professional Go player without handicap on a full-sized 19x19 board. It was considered as a monument of artificial Intelligent. 
+
+Since the booming of new advanced machine learning / deep learning models and methods, AI is the fast changing field having new progress from day to day. Even as a professional developer, may not always master the up-to-date knowledge. For a designer, it is not necessary to master how to build an AI model, but learning how it works generally, and how to use it in current work situation. 
 
 (What is the Tuling Test? ...)
 
@@ -28,9 +30,9 @@ Data Science: is a multi-disciplinary field that uses scientific methods, proces
 
 
 
-A more vivid example to illustrate these concepts. AI is more like a robot that simulate human behavior and replacing labor works. ML is studying how the programming logic works so the robots could be smarter. DL is one of the ML methods based on neural networks. Big Data basically is a large amount of exercise that trains robot smart and accurate. Data Science processes big data to be accurate, concise, organized, and easy to understand for both human and robots. 
+A more vivid example to illustrate these concepts. AI is more like a robot that simulate human behavior and replacing labor works. ML is studying how the programming logic works so the robots could be smarter. DL is one of the ML methods based on neural networks. Big Data basically is a large amount of exercise that trains robot smart and accurate. Data Science processes Big Data to be accurate, concise, organized, and easy to understand for both human and robots. 
 
-If we see the big data is raw food, today is the era of world cornucopia since the advancement of smart phone and internet. However, you can not eat these raw food directly. Data science is like big food company collecting big data, then cleaning, filtering, categorizing, transforming, packing these food that people can use or eat. AI is like human, their growth and population has to be based on the food resource. Once the AI is eating more accurate processed food, they become smarter and stronger, and could finish work fast and accurate. 
+If we see the big data is raw food, today is the era of world cornucopia since the advancement of smart phone and internet. However, you can not eat these raw food directly. Data science is like big food company collecting big data, then cleaning, filtering, categorizing, transforming, packing these food that people can use or eat. AI is like an animal needs to eat food, its growth and population has to be based on the food resource. Once the AI is eating more accurate processed food, they become smarter and stronger, and could finish work fast and accurate. 
 
 
 
@@ -89,11 +91,27 @@ A list of artificial intelligence tools you can use today (https://medium.com/@L
 
 
 
+2.3.3 Simple Tutorial to Train an AI model by Python and Keras
+
+This tutorial is a simplified version of official Keras Documents. Please check the [website](https://keras.io/) for latest tutorial. 
+
+
+
+
+
 2.4 Discussion: Will AI replace traditional designer soon? What should we do?
 
 According to the survey, there is only 5% chance that Artificial intelligence will replace landscape architect in next 2 decades. However, it just the subjective acknowledgement and attitude toward artificial intelligent and landscape architecture from public. What scientist devote to achieve is to invent the technology that could be smart enough to afford the design job, or even superior to the human intelligence.
 
 There are several papers discussing this question: will AI replace traditional designer's job? Let's see what these reporter think. ...
+
+[[Yes, AI Will Replace Designers]](https://medium.com/microsoft-design/yes-ai-will-replace-designers-9d90c6e34502)
+
+[[Will designers be replaced by robots?]](https://www.creativebloq.com/features/will-designers-be-replaced-by-robots)
+
+[[Will AI replace creative professionals?]](https://venturebeat.com/2017/06/01/will-ai-replace-creative-professionals/)
+
+
 
 Living in the current situation, what is the best move for a landscape architecture designer? What my suggested is keep learning and keep updating yourself, be sensitive and welcome the new trend in the field would be a wise behavior. 
 

@@ -23,18 +23,18 @@ History of Fabrication
 - CNC Punching (https://www.creativemechanisms.com/blog/everything-you-need-to-know-about-cnc-machines)
 - Precision Forming / Not different from CNC
 - Robotic Welding: ... (https://en.wikipedia.org/wiki/Robot_welding)
-- Laser Cutting
+- Laser Cutting (http://www.cutlasercut.com/getting-started/what-is-laser-cutting-laser-cutting-process) (https://en.wikipedia.org/wiki/Laser_cutting)
 - Powder Coating? (https://www.powdercoating.org/page/WhatIsPC)
 - 3D Printing (https://www.3dhubs.com/guides/3d-printing/)
-- 3D Scanners
-- Laser Engravers (Laser Cutting)
+- 3D Scanners (https://www.aniwaa.com/3d-scanning-technologies-and-the-3d-scanning-process/) (https://en.wikipedia.org/wiki/3D_scanning)  Photogrammetry (https://blog.prusaprinters.org/photogrammetry-3d-scanning-just-phone-camera/)
 
 4.1.3 What materials we can use for fabrication?
 
 - Metal: 
 - Plastic: Nylon, Resin, Thermoplastic, Carbon Fiber, Glass-filled Polymer, Acrylate...
 - Composite: 
-- Filament:
+- Concrete
+- ...
 
 (https://all3dp.com/1/3d-printing-materials-guide-3d-printer-material/)
 
@@ -53,8 +53,6 @@ History of Fabrication
 4.2.3 Bio-material Structure (Bioprinting: https://en.wikipedia.org/wiki/3D_bioprinting) [[The world's first 3D Printed biodigital living sculputers featuring at the Centre Pompidou in Paris]](https://www.3dwasp.com/en/the-worlds-first-3d-printed-biodigital-living-sculputers-featuring-at-the-centre-pompidou-in-paris/)
 
 [5 Futuristic Materials That Could Reshape Architecture and Design](https://www.metropolismag.com/architecture/transmaterial-advanced-materials-design-architecture/)
-
-
 
 4.2.4 Recycled Material ???
 
@@ -87,6 +85,8 @@ Export the translated model(.gcode format) into your sd card or directly to your
 On your 3d printer, before print, make sure the printing bed is level in any spots, and the distance between printer nozzle and bed is about the thickness of a  paper, check the tutorial [[How to level the printing bed by a piece of printing paper]](...).
 
 Check the specifics of your filament, set the nozzle temperature and bed temperature according. If the printing is not as fluent as you think, double check if your heating bed is level or if the nozzle and bed temperature is right. Adjust the 3d printing model setting or printer setting to make sure the output is smooth and even.
+
+4.3.4 3D Scanning with Camera - Photogrammetry
 
 
 
