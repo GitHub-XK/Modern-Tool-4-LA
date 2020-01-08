@@ -160,6 +160,10 @@ It is also a great tool for educational purpose since
 
 1.4.11 Others(https://www.dezeen.com/tag/augmented-reality/)
 
+1.4.12 Time Traveler 
+
+1.4.13 Urban AR Exploring App
+
 
 
 ##### 1.5 How to convert Design into VR?
@@ -236,6 +240,16 @@ Unity3D Guide:
 
 
 **Unreal Engine**:
+
+
+
+##### 1.6 Virtual Landscape World
+
+1.6.1 Virtual Landscape in Movies
+
+1.6.2 Virtual Landscape in Games
+
+1.6.3 Virtual Landscape in Mixed Reality
 
 
 

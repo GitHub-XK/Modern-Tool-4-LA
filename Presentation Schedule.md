@@ -1,6 +1,6 @@
 ## Presentation Schedule
 
-#### Week 1 - GIS & Mapping: QGIS, OpenStreetMap & Mapbox
+#### Week 1 - GIS & Mapping: QGIS, OpenStreetMap, Mapbox
 
 1. Introduction to GIS. What is the meaning to landscape architecture? It is a tool that converts raw geological information to the information and graphics that useful for landscape architectures to best present site conditions and design ideas.
 2. QGIS vs ArcGIS: the two most popular GIS software on the market. Here is a general comparison about QGIS and ArcGIS: a. similar functions. b. QGIS is open source and free, while ArcGIS is expensive. c. QGIS is easy to learn, while ArcGIS is sort of complicated. d. QGIS works on both Windows and MacOS, while ArcGIS only works on Windows.  Since it is easy and free, it is definitely recommended to learn QGIS as the beginning of  GIS study.

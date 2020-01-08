@@ -4,22 +4,21 @@
 
 
 
-When the first time landscape architecture firm bought a computer (Example of David Walker), It was the turning point of how landscape designers could express their ideas. Instead of close-accurate hand drawing and rendering, you could draw standard infinite accurate shapes, then drag, rotate and duplicate. David Walker, at PWP, said, in the day he graduated from Rhode Island School of Design in 1992. He was going to talk about what was his plan after graduation with Colgate, the department head of Landscape Architect in RISD. When David walked into the office, Colgate was sitting in front of two cubes with a black and white screen, which are the first Macintosh computer and first personal computer. "What are you going to do with these machines?" David asked. "I don't know," Colgate said. When David graduated from GSD, he brought the first computer to the office of PWP Landscape Architecture in San Francisco and decided not to draw the grid lines by hand a hundred times in the project of... Why not just draw and duplicate by a single click. It is a magic moment when a designer can draw virtual on a screen. The disappointing thing is that, at that time, you can only print in the printer with a minimal size. The first and only drawing software they used is the ???CAD, which is ???. The next advanced CAD software they are using was Vectorworks in 1996. In 2000, 3D modeling software started populated in Landscape Firms. SketchUp was brought into the office in 2004 by Chris Walker since it believed to be a straightforward and friendly software for the designer who doesn't know how to use 3D software to learn and use. They kept using SketchUp until now. 
+When the first time landscape architecture firm bought a computer (Example of David Walker), It was the turning point of how landscape designers could express their ideas. Instead of close-accurate hand drawing and rendering, you could draw standard infinite accurate shapes, then drag, rotate and duplicate. David Walker, at PWP, said, in the day he graduated from Rhode Island School of Design in 1992. He was going to meet and talk about what was his plan after graduation with Colgate, the department head of Landscape Architect in RISD. When David walked into the office, Colgate was sitting in front of two cubes with a black and white screen, which are the first Macintosh computer and first personal computer. "What are you going to do with these machines?" David asked. "I don't know," Colgate said. When David graduated from GSD, he brought the first computer to the office of PWP Landscape Architecture in San Francisco and decided not to draw the grid lines by hand a hundred times in the project of... Why not just draw and duplicate by a single click. It is a magic moment when a designer can draw virtual on a screen. The disappointing thing is that, at that time, you can only print in the printer with a minimal size. The first and only drawing software they used is the ???CAD, which is ???. The next advanced CAD software they are using was Vectorworks in 1996. In 2000, 3D modeling software started populated in Landscape Firms. SketchUp was brought into the office in 2004 by Chris Walker since it believed to be a straightforward and friendly software for the designer who doesn't know how to use 3D software to learn and use. They kept using SketchUp until now.  ( Add conversation and history details)
 
-Landscape Architecture industry in these 20 years, is growing fast and is recognized as a mature market globally. However, the design process and the design tool for most of the landscape architecture firms have not changed much. With the aggressive internet and information blooming and technology advancement, tons of amazing new tools have created in different diverse fields. These tools would highly improve the efficiency and experience of the design working process. However, most of the professional practice or even academic has never heard about these tools exist. 
+Landscape Architecture in these 20 years, is growing fast and is recognized as a mature industry / market globally. However, the design processes and the design tools for most of the landscape architecture firms have not changed much. With the aggressive internet and information blooming and technology advancement, tons of amazing new tools have created in different diverse fields. These tools would highly improve the efficiency and experience of the design working process. However, most of the professional practice or even academic has never heard about these tools exist. 
 
-Since these new tools mainly built for computer science and the internet industry, which is an extremely fast-growing field, few of them could get connections with landscape architects. Landscape architecture is a multidisciplinary profession that needs to absorb and process broadly diverse information and create a reasonable design solution accordingly. Information and design tools are essential for the success of a project. However, the tools landscape designer using currently are so limited and not changed much along the time, which always constrains landscape architects' working efficiency, project quality, and creative imagination. There are significant barriers, also high potentials between the landscape field and fast-growing technology world, and between designers who are using traditional tools and an open mind to embrace and enthusiastic about studying the cutting-edge new skills. 
-In this book, I will introduce you to many useful tools that you may barely heard and related practical skills. Tutorials and step by step guides will provide in each tool. 
+Since these new tools mainly built for computer science and the internet industry, which is an extremely fast-growing field, few of them could get connections with landscape architects. Landscape architecture is a multidisciplinary profession that needs to absorb and process broadly diverse information and create a reasonable design solution accordingly. Information and design tools are essential for the success of a project. However, the tools landscape designer using currently are so limited and infrequently changed along the time, which always constrains the working efficiency, project quality, and creative imagination of landscape architecture. There are significant barriers, but high potentials between the landscape field and fast-growing technology world, and between designers who are using traditional tools and an open mind to embrace and enthusiastic about studying the cutting-edge new skills. 
+
+Comparing to other cutting-edge landscape architecture papers or books, this book will mainly focus on the hands-on practical skills instead of abstract theory or fuzzy imagination. Study along doing is recommended when you go through this book. Why landscape architects should refuse coding? Coding and programming is highly encouraged even you do not have any previous experience. Tutorials and step by step guides will provide for each chapter. After you reading this book, what you learnd is not the vision of the future, but what you could create / do for the future. The changing of the landscape architecture field definitly needs a direction. However, it needs more practicors to go down the earth to experiment and apply with these new staff into the field. You could also see this book as a cookbook guilding you how to play in the field in very different ways. Never dare to try or learn new knowledges, you will find a broad new land behind landscape architecture. 
 
 
 
 ##### Talk about the trend that everybody wants to switch jobs to computer science or start up.
 
-Start up stories inspire our new generations very much. The first era of start up heat, especially about internet raise many legends of star are like Zac Boger, .... The recent wave of start up populate in all different fields and groups. Famous as Uber, AirB&B, Dashdoor, Blue Apron. While, there are millions new ideas trying to become realistic by efforts of people who dare to  step out of the ideas and make the world change. In a larger perspective, it becomes a most important way to change the world beside academic breakout. I have been the moments that thinking/excited about some strange ideas all night without sleep. I guess many people may have same situation/feelings with me. Everyone could potentially be a business people. However, It does not mean you can startup anything and success. The most ideal situation about startup is doing the things you know the best and enthusiastic about. As a landscape architecture profession, it is not impossible to do startup, especially when it combining and integrating with current popular technology. For example: 3D printing, Bio-material, Artificial intelligence, VR, AR, Distributed business model, all kinds of social media and so on. If you get bored of traditional landscape architecture, there are broad potential to make some fun and bring some fresh blood to landscape.
+Startup stories inspire our new generations so profoundly. The first era of startup heat, especially about internet raise many legends of the star are like Zac Boger. The recent wave of startup populates in all different fields and groups. Famous as Uber, Airbnb, DoorDash, Blue Apron, Lime. While there are millions of new ideas trying to become realistic by the efforts of people who dare to step out of ideas and make the world change. In a broader perspective, it becomes the most critical way to change the world besides educational breakout. I have been the moments that thinking/excited about some strange ideas all night without sleep. I guess many people may have the same situation/feelings with me. Everyone could potentially be business people. However, It does not mean you can startup anything and success. The ideal situation about a startup is doing the things you know the best and enthusiastic. As a landscape architecture profession, it is not impossible to do a startup, uniquely when it is combining and integrating with currently accessible technology. These could be 3D printing, Bio-material, Artificial intelligence, VR, AR, Distributed business model, all kinds of social media, or even Youtube Channel. If you get bored with traditional landscape architecture, there is broad potential to make some fun and bring some fresh blood to the landscape.
 
-There is another trend around my friends and classmate with all fields and ages. Everybody seems interest in computer science or programming. It sounds like a good sign of everybody is trying  to embrace the new technology. They are taking related class, going to bootcamp, or self-learning on the internet. Once there is a chance, they would probably leave the current job or major, and switch to the field of computer science. When asked the reason, the most responses are related about money and future instead of interest. It is a crew truth that working as a developer/programmer/engineer can earn double or more than a landscape designer. And there will be larger needs for developers in the future than landscape architects. "Thinking about after 5 years working period. Landscape designer probably will still be the landscape designer without much salary change, while developer could become a senior developer with much higher market need and extremely high salary increase." Sounds like a charming story. "Where should I go?" Lot of college students are really confused about what was happening around them?  
-
-
+There is another trend around my friends and classmate with all fields and ages. Everybody seems interested in computer science or programming. It sounds like a good sign of everybody is trying to embrace the new technology. They are taking programming class, going to Bootcamp, or self-learning on the internet. Once there is a chance, they would probably leave the current job or major, and switch to the field of computer science. When asked the reason, most responses relate to money and future instead of interest. It is a crew truth that working as a developer/programmer/engineer can earn double or triple more than a landscape designer. And there will be more significant needs for developers in the future than landscape architects. "Thinking about after five years working period. Landscape designer probably will still be the landscape designer without much salary change, while developer could become a senior developer with much higher market need and extremely high salary increase." It sounds like a charming story. "Where should I go?" A lot of college students are perplexed about what was happening around them? I am one of the bad strugglers who can not stop thinking about my career path and choice. It is really hard for me to not consider switching the field since my strong interest and special skills and experience related to computer science and engineering. In another hand, it is also hard to give up on landscape architecture with around 10 years study and professional experience. It is my original love when I entering the college. It maybe a good idea to become a hybrid species. After research, there is not much area can overlap these two fields, which means there is not much related jobs or recognized positions, but also means potentials. However, I decided to give it a try since there was not much finance pressure during my graduat study, and RISD (Rhode Island School of Design) provided a great environment for study various medias including digital media, and multiple art-related programmings. It a period that I experiment most with mixing 
 
 
 
@@ -43,9 +42,15 @@ There is another trend around my friends and classmate with all fields and ages.
 
 
 
-### Part 1: Immersive Experience (Visualization & Spatialization)
 
-##### Chapter 1: virtual reality
+
+
+
+
+
+### Part 1: Immersive Experience
+
+##### Chapter 1: Virtual Reality
 
 Definition, examples, applications, pro and cons, relevant, people try, how to do that in a simple way? Related research.
 
@@ -67,9 +72,9 @@ Definition, examples, applications, pro and cons, relevant, people try, how to d
   - Unity3D
   - Unreal Engine
 
-### Part 2: Computer & Machine (calculating, programming, constructing, interacting)
+### Part 2: Computer & Machine
 
-##### Chapter 2: ai, ml, dl, big data
+##### Chapter 2: AI, ML, DL, Big Data
 
 Definition, examples, application in la, relevant, pro and cons, people try, how to apply in design. Related research.
 
@@ -86,7 +91,7 @@ Definition, examples, application in la, relevant, pro and cons, people try, how
   - ... (Need Research: easy tool to use in landscape)
 - 2.4 Discussion: Will AI replace traditional designer soon? What should we do?
 
-##### Chapter 3: interactive machine and sensor
+##### Chapter 3: Interactive Machine and Sensor
 
 Single chip controller, Arduino, raspberry pi, sensor, led, art examples, la examples, research
 
@@ -108,9 +113,9 @@ Single chip controller, Arduino, raspberry pi, sensor, led, art examples, la exa
   - Arduino LED Project
   - Other Resources(need research)
 
-##### Chapter 4: material fabrication
+##### Chapter 4: Material Fabrication
 
-Cnc, 3d printing, bio material, fabric, metal...
+CNC, 3D Printing, Bio-material, Fabric, Metal...
 
 - 4.1 Introduction to Robot Fabrication Technology
   - History of Fabrication
@@ -128,7 +133,7 @@ Cnc, 3d printing, bio material, fabric, metal...
   - CNC
 - 4.4 Traditional Construction Tech vs. Modern Fabrication: New Construction Standard?
 
-##### Chapter 5: parameter modeling/ Parametric Design, def, type, example, new technologies of parameter modeling.(??? Need ???)
+##### Chapter 5: Parametric Design
 
 - 5.1 Introduction to Parameter Modeling
   - History of Parameter Modeling
@@ -142,7 +147,7 @@ Cnc, 3d printing, bio material, fabric, metal...
 
 
 
-### Part 3: Internet & Data (mining, scraping, organizing, customizing)
+### Part 3: Internet & Data
 
 Introduction: Landscape architecture design can not build without accurate information. It is extremely important to access rich data set and analyze them before designing or implementing design solutions. In the past all the important information are stored at national agencies, like libraries, governments, geological department, and universities. Designers or publics often hardly could obtain these information. With growing of internet, and boosting of data and information, designers could easily access large amount of data without too much effort. However, because of the technology barrier, sometimes we don't know where and how to get them and convert to useful data that designer could use. For landscape architecture, geological data is extremely valuable and important. There are many sources and tools most of the landscape architects barely know where or how to use. This chapter will introduce several resources and tools that would essentially help designer to access useful data set.
 
@@ -195,7 +200,7 @@ Introduction: Landscape architecture design can not build without accurate infor
   - Get City Model from CityEngine (Building, Road, Topo)
   - Export City Models to SketchUp, Rhino, Unity3D
 
-##### Chapter 10: Data Visualization(?? Need ??)
+##### Chapter 10: Data Visualization
 
 - 10.1 Introduction to Data Visualization
   - What is Data Visualization and Why?
@@ -219,7 +224,8 @@ Introduction: Landscape architecture design can not build without accurate infor
 ##### Chapter 11: Other Useful Tool for Landscape Architecture
 
 - Land Design Plugin for Rhino
-- 
+
+  
 
 ### Conclusion 
 

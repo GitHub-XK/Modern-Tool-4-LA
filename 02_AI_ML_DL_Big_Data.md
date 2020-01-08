@@ -30,6 +30,10 @@ Data Science: is a multi-disciplinary field that uses scientific methods, proces
 
 
 
+(Diagram Diagram Diagram)
+
+
+
 A more vivid example to illustrate these concepts. AI is more like a robot that simulate human behavior and replacing labor works. ML is studying how the programming logic works so the robots could be smarter. DL is one of the ML methods based on neural networks. Big Data basically is a large amount of exercise that trains robot smart and accurate. Data Science processes Big Data to be accurate, concise, organized, and easy to understand for both human and robots. 
 
 If we see the big data is raw food, today is the era of world cornucopia since the advancement of smart phone and internet. However, you can not eat these raw food directly. Data science is like big food company collecting big data, then cleaning, filtering, categorizing, transforming, packing these food that people can use or eat. AI is like an animal needs to eat food, its growth and population has to be based on the food resource. Once the AI is eating more accurate processed food, they become smarter and stronger, and could finish work fast and accurate. 
@@ -40,7 +44,7 @@ A chart shows the relations of these terminologies: .... Chart/Graph
 
 
 
-2.1.3 Cutting-Edge Research and Application in Artificial Intelligent
+2.1.3 Cutting-Edge Research and Application in Artificial Intelligent **
 
 - Image Identification and creation
 - Strategy problem solving
@@ -73,11 +77,11 @@ Once we have a general idea of these items, we could start to think about how la
 
 2.3.1 Python, Keras, TensorFlow, Azure
 
-Programming and computing is the foundation of the artificial intelligent. It is great if designer has some programming knowledge. Python and R are the main programming languages that artificial intelligent program build from. It is recommended to learn Python since it is simple, easy to understand and broadly used. Based on Python, there are many awesome open-source machine learning framework we can directly build on, for example: TensorFlow, Keras, and Azure. If you not interested in learning boring hard programming knowledge, there are also great tools that we could directly borrowed from whiteout knowing any programming knowledge.  
+Programming and computing is the foundation of the artificial intelligent. It is great if designer has some programming knowledge. Python and R are the main programming languages that artificial intelligent program build from. It is recommended to learn Python since it is simple, easy to understand and broadly used. Based on Python, there are many awesome open-source machine learning framework we can directly build on, for example: TensorFlow, Keras, and Azure. If you not interested in learning boring hard programming knowledge, there are also great tools that we could directly borrowed from without knowing any programming knowledge.  
 
 Python: We are not teaching you how to Program with Python, but telling you what is Python and what it can do. If you like to learn, there are tons of great resource on the internet you could study.
 
-TensorFlow and Keras: supposed we have some basic knowledge about python. We will do a small project to identify landscape images by tensorflow and keras framework.
+TensorFlow and Keras: supposed we have some basic knowledge about python. TensorFlow and Keras are the major python framework we need to learn to build a program or model. In the 2.3.3, a simple tutorial will teach you how to train an AI model to recognize the handwriting numbers.  
 
 
 

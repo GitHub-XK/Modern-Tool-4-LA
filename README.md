@@ -47,6 +47,28 @@ Project End Date: 8/26/2019
 
 
 
+## Thoughts and Critics
+
+From the book Codify:
+
+- Language quality needs urgently improved. It is a good idea to study the language in Codify.
+- Virtual Landscape in Video Game
+- Sensor application of ecology data collection
+- More website tools to introduce (Codify 03.03)
+- Draw through Programming (Python Tree Example in Chapter Parametric Design)
+- Diagram to explain different concepts of immersive experience (VR, AR, MR ...) 
+- Critics on the current tech oriented landscape projects: Needs to be interpretive instead of illustrative, graphic needs to be data driven accurate instead of visually accurate diagram.
+- Check useful information from Codify 01.05 Turning Landscapes
+- Critics on Codify 01.04 Big Data, should not only stay at show the exact data, but the translation, conclusion, prediction, or application of the data. You can not call Big Data when there is not enough data. Usually, the amount of landscape data is not big enough comparing to real big data of internet industry.
+- Add history of landscape architects using computer technologies (refer to the intro of Codify)
+- Add interviews from famous people in landscape architecture field
+- Add 3D scanning example from Codify 00.01
+- Add more diagram to explain the abstract new concepts.
+- Refer to the books of programming in Landscape architecture x 4
+- Add MR products Hololens and MagicLeap
+
+
+
 ## Revisions
 
 \#### 06/16/19 Beta 0.0.0: Start Project Concept and Respository on Github

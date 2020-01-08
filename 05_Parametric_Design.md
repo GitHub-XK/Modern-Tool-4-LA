@@ -6,13 +6,13 @@ Basically, all the computer aided design (CAD) could also be seen as a domain of
 
 5.1.1 Definition of Parametric Design and History of Parametric Design
 
-"Parametric design is a process based on algorithmic thinking that enables the expression of parameters and rules that, together, define, encode and clarify the relationship between design intent and design response." (https://en.wikipedia.org/wiki/Parametric_design)
+"Parametric design is a process based on algorithmic thinking that enables the expression of parameters and rules that, together, define, encode and clarify the relationship between design intent and design response." (https://en.wikipedia.org/wiki/Parametric_design) Similar terms include procedural modeling, fractal modeling, and generative modeling. 
 
 
 
 5.1.2 What is BIM? BIM vs Parametric Design
 
-Building Information Modeling (BIM)  is a process supported by various tools, technologies and contracts involving the generation and management of digital representations of physical and functional characteristics of places. 
+Building Information Modeling (BIM)  is a process supported by various tools, technologies and contracts involving the generation and management of digital representations of physical and functional characteristics of places.  
 
 
 
@@ -22,14 +22,13 @@ Building Information Modeling (BIM)  is a process supported by various tools, te
 -  Rhinoceros 3D / Grasshopper
 - Autodesk 3DS Max
 - Autodesk Maya
+- Python
 
 
 
 5.1.3 Bionic Modeling? / Organic Modeling?
 
  
-
-
 
 5.2 Application of Parametric Design / Modeling in Landscape Architecture
 
@@ -49,9 +48,11 @@ Building Information Modeling (BIM)  is a process supported by various tools, te
 
 5.3.1 Bionic Modeling by Rhino Grasshopper
 
-5.3.2 Architecture Modeling by Revit Dynamo
+5.3.2 Architecture Modeling by Revit Dynamo ??
 
 5.3.3 Introduction to Groundhog (Grasshopper plugin)(https://groundhog.la/)
+
+5.3.4 Tutorial about python programming trees.
 
 
 

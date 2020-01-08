@@ -1,10 +1,10 @@
 Chapter 3: Interactive Machine and Sensor? / Interactive Machine & Sensitive? Sensor (Electronic Engineer)
 
-Different from the previous visualization chapter and artificial intelligence chapter (which are both belong to computer science area), this chapter will talked about machine and robots in the physical world (which is in the field of Electronic Engineer), in human scale space and how they be responsive to people and environment. In my childhood, every kid dream is having a robots, like bianxingjingang. They are powerful, they have intelligence and assertive. However, these robots are only in the movie of fiction. The robots we can see or have heard are the robots that could listen and speak to you, could clean your room, cook meal, or large manufacturing robots that repeating missions and producing products. In another word, the temporary world is build on the machines. They are almost everywhere in our life.
+Different from the previous visualization chapter and artificial intelligence chapter (which are both belong to computer science area), this chapter will talked about machine and robots in the physical world (which is in the field of Electronic Engineer), in human scale space and how they be responsive to people and environment. In my childhood, every kid dream is having a robots, like Transformers. They are powerful, they have intelligence and assertive. However, these robots are only in the movie of fiction. The robots we can see or have heard are the robots that could listen and speak to you, could clean your room, cook meal, or large manufacturing robots that repeating missions and producing products. In another word, the temporary world is build on the machines. They are almost everywhere in our life.
 
 In landscape architecture, machine could be a great element/system that revitalize/activate the space since machine has huge amount of energy and specific functions. The most common examples are the water features, light features, mechanical/interactive installations. Comparing to the traditional landscape elements like pavement, topography, plants, the elements powered by machine are more energetic, moving , living instead of static, stable, and died. Especially after introducing sensors and program into machine, it becomes much more responsive and interactive to the environment and people. 
 
-As a landscape architect, understanding how these machine work and what these interactive machine could do is essential to communicate with subconsultant, create confident design, or even design and build the specific machine by landscape designer.
+As a landscape architect, understanding how these machines work and what these interactive machines could do is essential to communicate with subconsultant, create confident design, or even design and build the specific machine by landscape designer.
 
 3.1.1 Introduction of Single-Board Microcontroller
 
@@ -94,6 +94,11 @@ Pyroelectric Infrared Sensor:
 
 3.2.3 Water Feature Programming
 
+- Fountains of Bellagio by WET Design
+- Interactive Music Fountain by Crystal Design (https://www.crystalfountains.com/)
+- Plaza of Light by Z + T Studio
+- 
+
 3.2.4 Interactive Art
 
 - Artwork inspired by migraines(https://www.youtube.com/watch?v=4apVW2wD2pY)
@@ -101,6 +106,8 @@ Pyroelectric Infrared Sensor:
 - Daniel Jolliffe One Free Minute video(http://www.danieljolliffe.ca/ofm/ofm.htm)
 
 3.2.5 Other Examples
+
+
 
 
 

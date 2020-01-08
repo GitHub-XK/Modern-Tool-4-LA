@@ -42,7 +42,7 @@ History of Fabrication
 
 4.2 Application of Fabrication Technology in Landscape Architecture
 
-4.2.1 3D Printing Example [[Biodegradable 3D Printed Architectural Installation Will Become A Micro-Habitat For Plants And Insects]](https://www.vice.com/en_uk/article/kbneyv/biodegradable-3d-printed-architectural-installation-will-become-a-micro-habitat-for-plants-and-insects)
+4.2.1 3D Printing Example [[Biodegradable 3D Printed Architectural Installation Will Become A Micro-Habitat For Plants And Insects]](https://www.vice.com/en_uk/article/kbneyv/biodegradable-3d-printed-architectural-installation-will-become-a-micro-habitat-for-plants-and-insects) \## Showing the images of projects in different scales.
 
 [[A 3D-Printed Installation, Made With Sustainable Bioplastics]](https://www.metropolismag.com/architecture/arthur-mamou-mani-conifera-cos-installation/)
 
@@ -54,7 +54,7 @@ History of Fabrication
 
 [5 Futuristic Materials That Could Reshape Architecture and Design](https://www.metropolismag.com/architecture/transmaterial-advanced-materials-design-architecture/)
 
-4.2.4 Recycled Material ???
+4.2.4 Recycled Material / Sustainable Design
 
 
 
@@ -88,7 +88,7 @@ Check the specifics of your filament, set the nozzle temperature and bed tempera
 
 4.3.4 3D Scanning with Camera - Photogrammetry
 
-
+Besides buying an expensive professional 3D scanner, you could just scan the object with your smart phone, and generate a 3D model through specific program on the computer. 
 
 4.4 Discussions
 
