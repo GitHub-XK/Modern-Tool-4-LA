@@ -4,8 +4,8 @@ Besides what are introduced through the book, there are still a lot of powerful 
 
 Rhino Plugin / Script
 
-- Land Design:
-- Jamparc
+- Land Design: Main functions introduction
+- Jamparc: Main functions introduction
 - MINDESK VR
 - Elk
 - Iris
@@ -38,4 +38,20 @@ Window Software
 
 
 SpeedTree for 3Ds Max / Maya / Unity / Unreal (https://en.wikipedia.org/wiki/SpeedTree)
+
+
+
+Best Practice Modeling Site Topo From Rhino:
+
+
+
+Recommend Books & Articles:
+
+Codify: Parametric and Computational Design in Landscape Architecture(https://www.amazon.com/Codify-Parametric-Computational-Landscape-Architecture/dp/1138125032/ref=asc_df_1138125032/?tag=hyprod-20&linkCode=df0&hvadid=366282014808&hvpos=1o1&hvnetw=g&hvrand=1610764910352533758&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032082&hvtargid=pla-795723067582&psc=1&tag=&ref=&adgrpid=79033899031&hvpone=&hvptwo=&hvadid=366282014808&hvpos=1o1&hvnetw=g&hvrand=1610764910352533758&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032082&hvtargid=pla-795723067582)
+
+
+
+Solar, Shade, Wind Analysis:
+
+
 

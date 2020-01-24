@@ -32,7 +32,9 @@ Comparing to the expensive ArcGIS Desktop software, ArcGIS Online is free for no
 
 9.2.1 Introduction to CityEngine
 
-"CityEngine is a three-dimensional modeling software application developed by ESRI and is specialized in generation of 3D urban environments. With the procedural modeling approach, CityEngine supports the creation of detailed large-scale 3D city models. It has been heavily used in Urban Design and Game Development. 
+"CityEngine is a three-dimensional modeling software application developed by ESRI and is specialized in generation of 3D urban environments. With the procedural modeling approach, CityEngine supports the creation of detailed large-scale 3D city models. It has been heavily used in Urban Design and Game Development. Landscape designer could use it to get 3D terrain and 3D city base easily. Its terrain data is coming from ESRI (?), and its street and building information are collected from OpenStreetMaps. 
+
+
 
 
 
