@@ -2,11 +2,10 @@
 
 **Keywords: Simulation, Design, Representation**
 
-simulation is an important activities for human's development and designer's creative ideas. Design ideas need simulation as the material and drawing boards to start with, so we build base maps, concept models. While, it also needs the simulation to represent the design ideas, like perspective drawing and construction document. Without simulation process, design is just a vague thoughts. Computer virtual simulation it one of the most important simulation technology. It had been heavily used at military and industry. With the computing technology hugely improved, the computer simulation has been used broadly in movie and game industry to enhance the people's sensation and experience. Immersive is the word to describe the future simulation experience.
+Simulation is an essential activity for human development and the designer's creative ideas. Design ideas need simulation as the material and drawing boards to start with, so we build base maps, concept models. While, it also requires the simulation to represent the design ideas, like perspective drawing and construction document. Without the simulation process, the design is just a vague thought. Computer virtual simulation is one of the most critical simulation technology. It had heavily used in military and industry. With computing technology hugely improved, computer simulation has been used broadly in the movie and game industry to enhance the people's sensation and experience. Immersive is the word to describe the future simulation experience.
 
-Since the heat of VR(Virtual Reality) technology and the new VR devices, Oculus published in 2015, many fields of design started thinking VR as a new possibility. In industry, Architecture and Landscape Architecture firms take the first step to experiment with VR in next few years. It is an exciting moment for the designers who wish to embrace the new technologies and adventures(experiments/exploration). Would the VR be the new revolution same as the time when computer populated in landscape fields? It may need a longer time to respond this question.  
-
-In the first part of the book, various of cutting-edge simulation technologies will be introduced, including Virtual Reality, Augmented Reality, Mixed Reality. From history, definition to applications and possibilities in Landscape, and case studies, this chapter will guide designer to the world of modern design technologies step by step. 
+Since the heat of VR(Virtual Reality) technology and the new VR devices, Oculus published in 2015, many fields of design started thinking VR as a new possibility. In industry, Architecture and Landscape Architecture firms take the first step to experiment with VR in the next few years. It is an exciting moment for designers who wish to embrace new technologies and adventures(experiments/exploration). Would the VR be the new revolution the same as the time when computer populated in landscape fields? It may need a longer time to respond to this question. 
+In the first part of the book, various cutting-edge simulation technologies will be introduced, including Virtual Reality, Augmented Reality, Mixed Reality. From history, definition to applications and possibilities in Landscape, and case studies, this chapter will guide the designer to the world of modern design technologies step by step. 
 
 #### Chapter 1: Virtual Reality
 
@@ -14,14 +13,11 @@ In the first part of the book, various of cutting-edge simulation technologies w
 
 Definition: the computer-generated simulation of a three-dimensional image or environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a helmet with a screen inside or gloves fitted with sensors.
 
-If you haven't experience virtual reality before, here is my personal definition after I first time trying VR: Virtual Reality normally indicate a device with headset goggle (sometime also has a controller), which can create a visually and sonically (audio?) closed 3-dimensional virtual environment for audience. Your view and hearing directions within the goggle are synchronously responding to your head rotating and moving. It feels like you are in the virtual world. With the controller, you can move your locations and interact (not limited to create, remove, edit, grab, hit, throw, touch, trigger) with virtual object according to the program / game it running with. 
+If you haven't experienced virtual reality before, here is my definition after my first time trying of VR. Virtual reality usually indicates a device with a headset goggle (sometimes also has a controller), which can create a visually and sonically (audio?) closed 3-dimensional virtual environment for the audience. Your view and hearing directions within the goggle are synchronously responding to your head rotating and moving. It feels like you are in the virtual world. With the controller, you can move your locations and interact (not limited to create, remove, edit, grab, hit, throw, touch, trigger) with a virtual object according to the program/game is running. 
 
-Through different definitions, it was found that they all emphasis that "VR is an interactive and immersive (with the feeling of presence) experience in a simulated (autonomous) world"(refer same above).
-
+Through different definitions, it found that they all emphasize that "VR is an interactive and immersive (with the feeling of presence) experience in a simulated (autonomous) world" (refer the same above).
 The current VR is naturally booming in gaming and movie (entertainment) industry products according to its function and target groups. However, it comes a long way before it populating to the public. 
-
-The very first idea of it was presented by Ivan Sutherland in 1965: “make that (virtual) world in the
-window look real, sound real, feel real, and respond realistically to the viewer’s actions”
+Ivan Sutherland presented the very first idea in 1965: "make that (virtual) world in the window look real, sound real, feel real, and respond realistically to the viewer's actions."
 
 #### History of Virtual Reality
 
@@ -44,9 +40,9 @@ window look real, sound real, feel real, and respond realistically to the viewer
 
 #### Virtual reality in the 21st century
 
-At beginning of the 21st century, great advancement was achieved in the development of virtual reality. Computer technology, especially the portable and powerful smart phone technologies, have been broadly populated since it became cheap enough for people to afford easily. By using smartphone with high-density displays and advanced 3D graphics capabilities, a generation of lightweight convenience virtual reality devices were exploded in the market. Google Cardboard and Galaxy Gear are representing this type of VR devices.  ![GoogleCardBoard](https://lh3.googleusercontent.com/MAwTQ5qs2ogQg_NSBQTh3nrG78sMRALh9MGWzvlB5-t63NLtQyI3HBJttOL9Owx5fcE)
+At the beginning of the 21st century, significant advancement achieved in the development of virtual reality. Computer technology, especially the portable and powerful smartphone technologies, have been broadly populated since it became cheap enough for people to afford easily. By using a smartphone with high-density displays and advanced 3D graphics capabilities, a generation of lightweight convenience virtual reality devices exploded in the market. Google Cardboard and Galaxy Gear are representing this type of VR devices.   ![GoogleCardBoard](https://lh3.googleusercontent.com/MAwTQ5qs2ogQg_NSBQTh3nrG78sMRALh9MGWzvlB5-t63NLtQyI3HBJttOL9Owx5fcE)
 
-Virtual Reality became the real heat in 2015. It is the year thousands of VR games, app, and programs flooding out in the market. Multiple VR products were saling in the digital stores. It seems that everyone is interested in trying the VR and have one in home to replace the tv and playstation. 
+Virtual reality became the real heat in 2015. It is the year thousands of VR games, app, and programs flooding out in the market. Multiple VR products were selling in digital stores. It seems that everyone is interested in trying the VR and has one in the home to replace the tv and PlayStation. 
 
 
 
