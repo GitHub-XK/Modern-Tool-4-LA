@@ -1,5 +1,5 @@
 # Modern-Tool-4-LA
-![Version](https://img.shields.io/badge/beta-0.0.7-yellow)![Download](https://img.shields.io/badge/download-0-red)
+![Version](https://img.shields.io/badge/beta-0.0.8-yellow)![Download](https://img.shields.io/badge/download-0-red)
 ![License](https://img.shields.io/badge/license-GNU%203.0-green)
 
 Modern Tool for Landscape Architecture - A book introduces the modern technologies and applications to landscape architecture design, extends designers' horizon to the fast pacing technology and internet world. Virtual Reality, Augmented Reality, Artificial Intelligent, Big Data, Interactive / Sensorial Design, Open Source,  3D Fabrication... 
@@ -86,3 +86,34 @@ From the book Codify:
 \#### 12/13/19 Beta 0.0.6: Update 03 04 07
 
 \#### 01/06/20 Beta 0.0.7: Add contents in chapter 06, and presentation schedule
+
+\#### 01/29/20 Beta 0.0.8: Collect related images from internet with citations
+
+
+
+## Image Resources
+
+Chapter 00
+
+Chapter 01
+
+Chapter 02
+
+Chapter 03
+
+Chapter 04
+
+Chapter 05
+
+Chapter 06 
+
+Chapter 07
+
+Chapter 08
+
+Chapter 09
+
+Chapter 10
+
+Chapter 11
+
