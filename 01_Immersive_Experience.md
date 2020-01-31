@@ -1,3 +1,5 @@
+
+
 ### Part 1: Immersive Experience-- Visualization and Spatialization
 
 **Keywords: Simulation, Design, Representation**
@@ -74,19 +76,83 @@ Hologram is another technology that very different from XR. "It is an image that
 
 
 
-The trend in 2020, VR would be generally populate through different industry. AR would be the most fast growing technology being used in our daily life since the broad support from the mobile phone manufactures. From iphone 7 to the latest iphone 11, they have ARKit to strongly support AR program running on iphone. Beside Apple, Samsung, Huawei or OnePlus, they have ARCore to make sure AR program can easily running on the Android platform. Since the high coverage of smart phone users, AR become the most easy technology people and experience and enjoy. 
+The trend in 2020, VR would be generally populate through different industry. AR would be the most fast growing technology being used in our daily life since the broad support from the mobile phone manufactures. From iphone 7 to the latest iphone 11, they have [ARKit](https://developer.apple.com/augmented-reality/) to strongly support AR program running on iphone. Beside Apple, Samsung, Huawei or OnePlus, they have [ARCore](https://developers.google.com/ar) to make sure AR program can easily running on the Android platform. Since the high coverage of smart phone users, AR become the most easy technology people and experience and enjoy. 
 
 
 
 ##### 1.3 Applications of VR
 
-VR could be used in many areas in industry and daily life. It started with inventions, scientific experiments. The first field has large demand is millitary and nasa.  In the end of the 20th, there is a heat of VR in game industry, but not last long since the expensive price and the lack of powerful computer and graphic technology. After the Oculus, many field start to experiment and use it as an important tool. Especially in Architecture, Gaming, Movie, Medicine and Education field. 
+VR could be used in many areas in industry and daily life. It started with inventions, scientific experiments. The first field has large demand is millitary and nasa.  In the end of the 20th, there is a heat of VR in game industry, but not last long since the expensive price and the lack of powerful computer and graphic technology. After the Oculus, many field start to experiment and use it as an important tool. Especially in Architecture, Gaming, Movie, Medicine and Education industries. 
 
 **1.3.1 Architectural Visualization**
 
 5 Steps to Make VR a Reality in Your Practice By MICHAEL KILKELLY (https://www.architectmagazine.com/technology/5-steps-to-make-vr-a-reality-in-your-practice_o)
 
+VR Anywhere at CO (https://coarchitects.com/vr-anywhere-at-co/)
+
+Interplay of Realities: A Hybrid Planning Tool(https://coarchitects.com/interplay-of-realities/) By Nazli Tatar and Nuri Miller
+
 ((CO Architects discovered that VR helps fill in unknowns during the design process. Exploring a concept model in a fully immersive environment allows architects and clients to understand it better. Likewise, VR lets designers test different options at full-scale early in the process. VR also has visceral appeal. “Not everyone can read drawings,” says CO principal Eyal Perchik, AIA, “but everyone can relate to VR.” In the firm's VR mock-ups of complex lab and healthcare spaces, doctors and nurses could virtually work in a space, testing its layout and scale long before it's constructed. Currently, all projects at CO employ VR in some capacity.
+
+Courtesy CO Architects
+
+![img](https://cdnassets.hw.net/dims4/GG/ac95714/2147483647/resize/876x%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2Fb0%2F69%2F842f63b34f9a9acb9b2156050281%2F170313-co-architects-enscape-of-office.jpg)
+
+
+
+CO Architects continues to investigate technologies that support collaborative decision making for the design of high-value spaces. One of our key goals is to remove any friction to user adoption through more intuitive and playful interfaces. Our highly manipulatable virtual reality operating rooms now push boundaries by mixing the physical and virtual. In this new iteration, mixed reality operating rooms showcase user interaction with physical scale models tracked by cameras using Computer Vision.
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/040419Picture1.png)
+
+**Why Build It?**
+
+In initial user-testing, we observed that most users found the VR controllers to be challenging, unless they had some form of gaming experience. We addressed this by creating a training environment in which users could learn the functions for the various buttons and toggles on the HTC Vive controllers. Still, we recognized that the controllers were a potential barrier between the users and the experience. With this second version, we hope to reach a wider audience by replacing the controllers with physical representations of the virtual objects. This “digital twin” allows a group of users to re-configure a space and understand it immediately at both a model scale and real-world scale within VR.
+
+
+
+**How It Works**
+
+The scaled physical model is tracked by a webcam, which feeds each object’s location data to the computer in real time. Each object is assigned a unique marker for the computer to distinguish. If an object with a marker is moved to a certain location in the model, the virtual representation of that model will move simultaneously to the same location. Because of this seamless real-time connection, users without VR headsets can still be part of the experience by manipulating the physical model. In addition to furniture and equipment, characters are also represented in the model so that one can navigate the room by simply moving the physical character.
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/SET01-3.gif)
+
+ 
+
+**How We Built It & Key Features**
+
+The Unity gaming engine has been our primary environment for developing these custom experiences. It continues to provide an open and flexible platform for interactive design with a wealth of connections to third-party tools. In developing this new interactive experience, we were able to use a number of Computer Vision technologies within Unity to track physical objects in real time.
+
+First, we store unique visual markers for each physical model. Then, we create links between the physical markers and the virtual assets. This allows us to identify specific patterns from the camera’s live stream and determine an object’s position and orientation relative to Unity’s coordinate system.
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/040419Picture3.png)
+
+Our setup process begins by exporting a building model from Revit. Any model cleanup and 3D print preparation is then done in Rhino. We carefully match up the scale of the 3D printed objects with their unique markers in the virtual environment. Linking between the physical models and virtual assets is completed in Unity.
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/040419Picture4.png)
+
+We place several different characters within the virtual scene, including two nurses and a doctor. The VR user can switch between characters and view the scene from different perspectives to see different points of view. To navigate the viewer, the user can simply move and rotate the representation in the physical model.
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/040419Picture5.png)
+
+Considering the ever-changing and tight nature of the operating room space, it is important that we visualize how equipment may move through it. We incorporated a “tracer” feature that records the movement of objects and allows the users to see it as a ghosted 3D zone within the virtual space.
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/040419Picture6.png)
+
+Much of the interaction previously provided by the VR controllers is now controlled through the physical model. We implemented a virtual pop-up display attached to the user’s hand when a button feature is required, like to toggle lights or turn the “tracer” feature. We used the Leap Motion hand-tracking device to show the user’s hands in virtual space and overlay a set of buttons a user could use without the need for a controller.
+
+ 
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/040419Picture7.png)
+
+ 
+
+**Primary Features of the Mixed Reality Operating Room**
+
+![img](https://coarchitects.com/wp-content/uploads/2019/04/Photoedited-1-1024x587.png)One of our hopes for this project – and other interactive tools under development at CO – is that more self-led exploration by project stakeholders will foster greater engagement and investment in the design. In order for this to happen, design interaction has to become more intuitive through advanced methods like using cameras and sensors to mix the physical and virtual. Ultimately, decisions can be made faster and with increased confidence that everyone shares the same understanding and design vision.
+
+
+
+
 
 [Hickok Cole Architects](http://www.hickokcole.com/) in Washington, D.C., began exploring VR through its in-house [iLab](http://www.hickokcole.com/ilab/research-innovation/) program, which provides micro-grants for employees to research new ideas and technologies. Recipients Carlyn Luu, a project architect, and Howard Mack, a design technology specialist, explored potential applications of VR tools in design, presentation, and marketing. In design, Luu and Mack used VR to highlight unresolved issues at the forthcoming [International Spy Museum](https://www.spymuseum.org/), for which Hickok Cole is the architect of record. By sharing the VR model with the client, they realized that they could not curate carefully styled views of the project as they could with conventional 3D renderings—the client could explore the model however they saw fit. Hickok Cole is currently using VR on three projects with plans to roll it out on more projects soon.))
 
@@ -100,7 +166,9 @@ There are many VR applications focusing on designing and modeling in a virtual e
 
 **[[Medium]](https://www.oculus.com/medium/)** by Oculus is one of the best 3D digital sculpting VR apps, especially in the game industry. It is used to create and paint digital sculptures by Oculus Touch controllers. Medium is easy to use and filled to the brim with features for you to polish up your creations before exporting them into your game engine of choice. *"Create with digital clay in virtual reality"*
 
-**[[Gravity Sketch VR]](https://www.gravitysketch.com/)** is an intuitive and immersive 3D design tool enabling designers to unleash their creativity. Quickly ideate, visualise and communicate concepts in real-time. With Gravity Sketch, your creativity is limitless.
+**[[Gravity Sketch VR]](https://www.gravitysketch.com/)** is an intuitive and immersive 3D design tool enabling designers to unleash their creativity. Quickly ideate, visualise and communicate concepts in real-time. With Gravity Sketch, your creativity is limitless. 
+
+Design Landscape with Gravity Sketch VR (https://www.youtube.com/watch?v=tbzE9z4HE2k)
 
 **[[A-Painter]](https://aframe.io/a-painter/)** : *"Paint in VR in Your Browser"*. A-Painter is an in-browser 3D design app built by the Mozilla team for painting and sculpting in VR. It allows you to get creative inside your browser, with plenty of creation tools available for you to unpack. A bit alternative, but we can appreciate the ones pushing the boundaries of what’s available without having to download actual software to your hard drive.
 
@@ -120,10 +188,6 @@ One your the primary use of VR in early stage is doing training in military. It 
 
 It is also a great tool for educational purpose since 
 
-
-
-
-
 1.3.4 Telepresence and Teleoperating
 
 1.3.5 Cooperative Working
@@ -132,29 +196,260 @@ It is also a great tool for educational purpose since
 
 
 
-##### 1.4 Application of VR in Landscape Architecture
+##### 1.4 VR Projects in Landscape Architecture
 
 1.4.1 Virtual Reality Videos: Brookly Bridge Park, MVVA
 
-1.4.2 LAM Magazines: Get Real
+ASLA VIRTUAL REALITY (https://www.asla.org/vr.aspx):
 
-1.4.3 Scape
+Brooklyn Bridge Park VR / ASLA
 
-1.4.4 SeanJancski Landscape : [Pool Design](https://sjlandscapearchitects.com/virtual-reality-in-landscape-design/)
+![Brooklyn Bridge Park VR](https://cdn.asla.org/uploadedImages/CMS/News_Extra/VR/vr1.jpg)
 
-1.4.5 Design with VR (https://www.youtube.com/watch?v=tbzE9z4HE2k)
+Brooklyn Bridge Park VR / ASLA
+
+![Brooklyn Bridge Park VR](https://cdn.asla.org/uploadedImages/CMS/News_Extra/VR/vr2.jpg)Why Brooklyn Bridge Park?
+
+ASLA selected Brooklyn Bridge Park because it won the ASLA 2018 Professional General Design Award of Excellence. Less than one percent of all award submissions receive this honor.
+
+Our esteemed jury, made up of leaders in the field, described Brooklyn Bridge Park this way: “The plan allows for and encourages different experiences in the different spaces, from being wide open and being fully engaged with the people around you to intimate, forested places. It’s remarkable.”
+
+The award also highlights Brooklyn Bridge Park because it’s a prominent example of how to transform abandoned post-industrial waterfronts into spaces for people and wildlife. These spaces litter cities and represent so much untapped potential.
+
+Why Virtual Reality?
+
+The communications world is increasingly image- and video-driven. With video, you can pack in even more information about a work of landscape architecture, much more than you can in simply a photo or text. With video, you can get a sense of the sight, sound, and “feel” of a place. You can see people interacting with the design, bringing it to life.
+
+Virtual reality takes video to the next level. As you move your phone or VR headset, you control your experience in the landscape. It more closely mimics the experience of exploring a place in person. In part, it recreates that sense of discovery one gets in real life.
+
+Why did ASLA make this VR film?
+
+Virtual reality has proven to be a powerful tool for explaining how the places people love – like Brooklyn Bridge Park – are designed experiences. Virtual reality can educate the public about landscape design in a compelling way.
+
+The video has multiple goals: promote the potential of virtual reality among the landscape architecture community, which totals approximately 25,000 design professionals in the U.S. and Canada; explain the incredible value of landscape architecture to the public; and demonstrate the ability of landscape architects to turn an unloved place like a cut-off, post-industrial waterfront into a beloved community park.
+
+Why should landscape architects use VR?
+
+Virtual Reality is a powerful tool for landscape architects, architects, planners, and developers – really anyone involved in designing our built and natural environments. In the example of Brooklyn Bridge Park: many will never have the opportunity to visit the park in person, but with our video, they can get a good sense of what’s it like to be there.
+
+For landscape architecture firms, this is an excellent way to really show clients that a place they’ve designed works – that people enjoy hanging out there, that kids love playing there, that people are drawn to events there.
+
+
+
+?? 1.4.2 LAM Magazines: Get Real
+
+?? 1.4.3 Scape
+
+1.4.4 SeanJancski Landscape : [Pool Design](https://sjlandscapearchitects.com/virtual-reality-in-landscape-design/)![img](https://sjlandscapearchitects.com/wp-content/uploads/2018/01/virtualreality-1024x820.jpg)
+
+Virtual Reality Landscape and Pool Design
+Our design firm continues to be a leader in the use of digital tools and software for advanced landscape design visualization.  We have been producing high quality 3d renderings for many years now.  That trend continues with the use of Virtual Reality and interactivity to better visualize our pool, landscape and pool cabana designs.  Here is an interactive recent design (try viewing this on a mobile device or iPad!).
+
+
 
 1.4.6 Design in Augmented Reality(https://www.structurestudios.com/yard)
 
-1.4.7 Furniture Design(https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality)
+YARD Is An Augmented Reality App To Help You Build Your New Swimming Pool(https://www.vrfocus.com/2018/04/yard-is-an-augmented-reality-app-to-help-you-build-your-new-swimming-pool/)
+
+YARD is a new augmented reality (AR) application that is here to help designers create ideas for landscape and outdoor space projects in real-time from Structure Studios.
+
+
+
+![YARD AR screenshot 02](https://www.vrfocus.com/wp-content/uploads/2018/04/YARD_AR_screenshot_02-1024x553.jpg)
+
+The application allows for a designer to create ideas and mock ups for projects, not matter the scale, and then bring them to life in AR right there at the work site. This means that the time needed to concept ideas or get approval from a costumer can be reduced as the design process can be handled in front of them. From the moment the application is open users will be able to start designing in a floor plan view what they have in mind before then setting measurements to bring it to life in full scale 3D that is able to be explored in AR allowing clients to see their dream outdoor plan come to life in seconds.
+
+Targeted at the pool and landscape industry, which is currently worth over $5 billion (USD), YARD aims to make the process of designing and selling more confident by offering a visualization of the final product to life. Once an idea has been sketched out out in 2D on an iPad Pro, they can switch to 3D view to begin exploring the concept and taking it to the next level.
+
+![YARD AR screenshot 01](https://www.vrfocus.com/wp-content/uploads/2018/04/YARD_AR_screenshot_01-1024x547.jpg)
+
+YARD comes with a large number of included objects and materials which can be dropped in and arranged as the user sees fit. As each of them is to scale, it allows for even greater immersive into what the finished pool, landscaping or even outdoor extension might look like. When it comes to changing the materials, all a user needs to do is look at an object and tap the required material, seeing it update in real-time.
+
+YARD also supports Vip3D which means users are able to import pools, outdoor kitchens and more from the Vip3D package into YARD, placing and rotating them directly on the client’s property and then walking them around it. This means that the freedom to design and create remotely and onsite is available, empowering a designers workflow like never before.
+
+For more on YARD in the future, keep reading VRFocus.
+
+
+
+1.4.7 Morpholio Brings Iconic Furniture Designs to Life with Augmented Reality(https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality)
+
+Written by [**Eric Baldwin**](https://www.archdaily.com/author/eric-baldwin)
+
+[Morpholio](https://www.morpholioapps.com/board/?utm_medium=website&utm_source=archdaily.com) has unveiled a suite of new iconic furniture designs brought to life through augmented reality with [Morpholio Board](https://itunes.apple.com/us/app/morpholio-board.../id761867957?ign-mpt=uo%3D4)&mt=8&utm_medium=website&utm_source=archdaily.com). Joining forces with manufacturer [Knoll](https://www.knoll.com/?utm_medium=website&utm_source=archdaily.com) and one of the world’s top AR visualization companies, [Theia Interactive](https://theia.io/?utm_medium=website&utm_source=archdaily.com), the team is showcasing a range of work from designers like Eero Saarinen and Marcel Breuer to Mies van der Rohe’s iconic Barcelona chair.
+
+[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/2131/284d/d1c0/d600/00da/thumb_jpg/Morpholio_Board_AR_04_Board_Knoll_Harry_Bertoia_Bird_Chair.jpg?1563828484)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d362131284dd1c0d60000da-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/20fe/284d/d1c0/d600/00d9/thumb_jpg/Morpholio_Board_AR_04_Board_Knoll_Eero_Saarinen_Womb_Chair.jpg?1563828434)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d3620fe284dd1c0d60000d9-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/1f9b/284d/d1c0/d600/00d6/thumb_jpg/Morpholio_Board_AR_01_hero_06b_Knoll_David_Adjaye_Washington_Skeleton_Chair.jpg?1563828078)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d361f9b284dd1c0d60000d6-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/2054/284d/d135/e000/0028/thumb_jpg/Morpholio_Board_AR_03_insitu_02_Knoll_Mies_van_der_Rohe_Barcelona_Chair.jpg?1563828248)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d362054284dd135e0000028-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)[+ 14](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d361f0c284dd1c0d60000d5-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+[Save this picture!](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d3620fe284dd1c0d60000d9-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/20fe/284d/d1c0/d600/00d9/newsletter/Morpholio_Board_AR_04_Board_Knoll_Eero_Saarinen_Womb_Chair.jpg?1563828434)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d3620fe284dd1c0d60000d9-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+Courtesy of Morpholio, Theia Interactive and Knoll
+
+
+
+Morpholio ventured to see how far they could push Augmented Reality. “Knoll’s collection is not only beautiful; the attention to detail made the furniture a perfect argument for why AR needed to go further using Apples new USDZ 3D file format.” says Anna Kenoff, [Morpholio](https://www.archdaily.com/tag/morpholio) Co-Founder. The goal for [Morpholio](https://www.archdaily.com/tag/morpholio) was to work with Theia to take on two major hurdles for AR in the design industry.
+
+[Save this picture!](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d361e3d284dd135e0000022-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/1e3d/284d/d135/e000/0022/newsletter/Morpholio_Board_AR_00a_Flow_Diagram.jpg?1563827722)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d361e3d284dd135e0000022-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+Courtesy of Morpholio, Theia Interactive and Knoll
+
+
+
+The first hurdle was considering detail. As the team states, “consumers and interior designers do not rely on cartoonish shapes to make critical decisions about color, space, scale and texture. They need to see detailed finishes, patterns and even stitching to understand how something might really work in an environment.” Thanks to Apple’s ARKit, USDZ 3D file format, the upcoming “People Occlusion” in iOS13 and Theia’s mastery, [Morpholio](https://www.archdaily.com/tag/morpholio)’s already popular Board App now has AR with a new range of detail.
+
+[Save this picture!](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d362054284dd135e0000028-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/2054/284d/d135/e000/0028/newsletter/Morpholio_Board_AR_03_insitu_02_Knoll_Mies_van_der_Rohe_Barcelona_Chair.jpg?1563828248)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d362054284dd135e0000028-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+Courtesy of Morpholio, Theia Interactive and Knoll
+
+The second challenge was to answer why AR is needed. The intent for [Morpholio](https://www.archdaily.com/tag/morpholio) was to make AR part of a larger and more meaningful process. “This isn’t about hitting the buy button on a single piece of furniture,” says Mark Collins, [Morpholio](https://www.archdaily.com/tag/morpholio) Co-Founder. “This is powerful visualization technology that needed to be plugged into the entire interior design workflow, helping homeowners and designers alike to imagine and curate spaces holistically.”
+
+For each AR product, Board now allows users to add it to their mood board alongside other models, fixtures and furnishings. The result is a vision for an entire room or project that can be brought to life.  Taking it a step further, with a single button, Board automatically translates your AR selections into cut sheets and furniture lists to share with your contractor, designer or collaborators. 
+
+[Save this picture!](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d361f9b284dd1c0d60000d6-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+[![Courtesy of Morpholio, Theia Interactive and Knoll](https://images.adsttc.com/media/images/5d36/1f9b/284d/d1c0/d600/00d6/newsletter/Morpholio_Board_AR_01_hero_06b_Knoll_David_Adjaye_Washington_Skeleton_Chair.jpg?1563828078)](https://www.archdaily.com/921609/morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality/5d361f9b284dd1c0d60000d6-morpholio-brings-iconic-furniture-designs-to-life-with-augmented-reality-image)
+
+Courtesy of Morpholio, Theia Interactive and Knoll
+
+“By bringing these pieces into AR, we’ve changed the way people can interact with and consider the furniture that will surround them when creating their ideal home or office.  The result is a first in the space and truly redefines how we understand what *good* AR can do for the design industry.” says Bill Fishkin, President of Theia.
+
+These smart design tools are rethinking how designers, and now shoppers, can experience furniture, and make *better* decisions.  Whether you are working on your own home or creating a new kind of interactive presentation.  Morpholio's team is also working with Porcelanosa, Dyson, Hansgrohe, Phase, Davis and many others to deliver more immersive experiences for designers.
+
+Currently Board AR is available for iPad and will be coming to iPhone soon. You can download [Morpholio](https://www.archdaily.com/tag/morpholio) Board in the App Store [here.](https://itunes.apple.com/us/app/morpholio-board.../id761867957?ign-mpt=uo%3D4&mt=8&utm_medium=website&utm_source=archdaily.com)
+
+
 
 1.4.8 Apple offers augmented reality art tours in six major cities(https://www.dezeen.com/2019/07/31/apple-augmented-reality-art-tours-technology/)
 
+![Apple augmented reality art tours](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_hero-1-852x479.jpg)Pipilotti Rist's AR artwork invites participants to follow and catch a multicoloured, flowing form
+
+[Apple](https://www.dezeen.com/tag/apple/) has collaborated with New York's New Museum to launch a series of [augmented reality](https://www.dezeen.com/tag/augmented-reality/) (AR) experiences that will see six large-scale virtual artworks take over major global cities.
+
+
+
+Called [AR]T, the AR experiences will feature works by seven artists chosen by the contemporary art museum, that will pop up across London, San Francisco, New York, Paris, Hong Kong and Tokyo.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_6-852x479.jpg)American artist Nick Cave imagines colourful alien-like figures dancing on buildings
+
+Offered to the public for free from Apple stores across the globe, the virtual artworks will appear from 10 August 2019.
+
+
+
+The artists involved are Nick Cave, Nathalie Djurberg and Hans Berg, Cao Fei, John Giorno, Carsten Höller and Pipilotti Rist.
+
+In the various works, large alien-like creatures can be spotted dancing atop city buildings, and portals offer a glimpse into alternative, sketch-style worlds with no perspective.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_5-852x479.jpg)John Giorno's artwork is titled Now at the Dawn of My Life
+
+Groups of ten people will each be given an [iPhone](https://www.dezeen.com/tag/iphone/) with the [AR]T app and a set of headphones, before being led by an Apple team member around each city.
+
+During the sessions, which will last around five to 10 minutes, participants will encounter the six interactive artworks in famous public spaces like London's Trafalgar Square or New York's Grand Army Plaza in Central Park.
+
+Viewers will also be able to take still and video imagery of the AI art pieces during their experiences.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_4-852x479.jpg)Djurberg and Berg's piece, titled This Is It, imagines a digital fairy-tale world
+
+"The New Museum has always led at the intersection of art and tech and we could not have asked for a better partner in Apple to support the fantastic visions of these pioneering artists," said Lisa Phillips, director of the [New Museum](https://www.newmuseum.org/).
+
+"Augmented reality is a medium ripe for dynamic and visual storytelling that can extend an artist's practice beyond the studio or the gallery and into the urban fabric," she added.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_8-852x509.jpg)The virtual artworks will be available to see from 10 August 2019
+
+Each artist has used AR to reimagine or invent new ways to express core themes of their art practice.
+
+Djurberg and Berg's work, titled This Is It, introduces viewers to digital fairy-tale worlds by revealing magical creatures inside hollowed out trees, while Giorno's Now at the Dawn of My Life sees inspirational phrases float around in the air.
+
+Other pieces include Rist's International Liquid Finger Prayer, which invites participants to chase after a multicoloured, shimmering form that hurtles through the city landscapes.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_1-852x479.jpg)Apple visitors can also partake in an in-store teaching lab
+
+This interactive walk is just one of three different sessions users can choose from.
+
+Participants can also receive a 90-minute in-store [AR]T Lab that teaches them the basics of creating AR using Swift Playgrounds – an app that helps teach people to code.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_0-852x479.jpg)Cave also designed an interactive AI experience of floating, multicoloured objects
+
+Alternatively, visitors can go into any Apple store worldwide to experience an AR art installation.
+
+In addition to reimagining his alien-like Soundsuits figures on the Apple [AR]T Walks, Cave also designed an interactive AI installation for users to experience in-store, called Amass.
+
+With the [AR]T Viewer in-store app, users can initiate American artist Cave's interactive experience of "a universe of positive energy", surrounded by colourful, floating Ikon Elements.
+
+![img](https://static.dezeen.com/uploads/2019/07/apple-ai-art-design-technology_dezeen_2364_col_3-852x479.jpg)Carsten Höller creates portals to other worlds with his Through art piece
+
+"Today at Apple offers a window into the creative arts made possible by our products and customers," said Apple's senior vice president of retail and people, Deirdre O'Brien.
+
+The launch of Apple's AR experiences comes just a month after chief design officer[ Jony Ive announced his departure from the company](https://www.dezeen.com/2019/06/28/jony-ive-leaves-apple-starts-lovefrom/).
+
+The exit will come into fruition later this year as the British-born designer plans to start an independent design company called LoveFrom.
+
+
+
 1.4.9 Invisible Landscapes installations explore how virtual reality will change architecture(https://www.dezeen.com/2019/04/04/virtual-reality-installations-invisible-landscapes-royal-academy/)
 
-1.4.10 Natuzzi launches Augmented Store for VR furniture shopping(https://www.dezeen.com/2019/08/05/natuzzi-augmented-store-virtual-reality-interiors-retail/)
+The [Royal Academy of Arts](https://www.dezeen.com/tag/royal-academy-of-arts/) has unveiled a series of installations that show how [virtual](https://www.dezeen.com/tag/virtual-reality/) and [augmented](https://www.dezeen.com/tag/augmented-reality/) reality technologies can change the experience of buildings and spaces.
 
-1.4.11 Others(https://www.dezeen.com/tag/augmented-reality/)
+
+
+The four installations were created by architect Gilles Retsin, 3D-scanning studio [ScanLAB](https://www.dezeen.com/tag/scanlab/), designer [Keiichi Matsuda](https://www.dezeen.com/tag/keiichi-matsuda/) and design studio Soft Bodies.
+
+Together they form the third and final instalment of [Invisible Landscapes](https://www.royalacademy.org.uk/exhibition/invisible-landscapes), a project by RA curator [Gonzalo Herrero Delicado](http://www.gonzaloherrero.eu/) exploring how digital technologies are changing the world.
+
+[![Invisible Landscapes virtual reality installations at the Royal Academy of Arts](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_2-852x1034.jpg)](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_2-852x1034.jpg)Gilles Retsin used plywood modules to create a geometric structure. Photo by NAARO
+
+"The last act of Invisible Landscapes explores how the virtual might transform the physical space and vice versa," the curator explained.
+
+
+
+"Four works, including two new commissions, explore how virtual, augmented and mixed reality are blurring the boundaries between the physical and the virtual, and questioning what is real and what is fictional, questioning how we might interact with and look at the world around us, both now and in the near future."
+
+[![Invisible Landscapes virtual reality installations at the Royal Academy of Arts](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_0-852x1425.jpg)](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_0-852x1425.jpg)Assemblers used Microsoft HoloLens headsets to guide them as each interlocking module was put in place. Photo by NAARO
+
+Real Virtuality was a new commission from Bartlett School of Architecture tutor [Gilles Retsin](https://www.retsin.org/), whose previous works include a [robot-built chair made using a 3D printer](https://www.dezeen.com/2017/05/17/robot-made-voxel-chair-new-software-bartlett-researchers-design-furniture-technology-chairs-robots/), and [prototypes for a 3D-printed plastic house](https://www.dezeen.com/2013/02/13/softkill-design-on-3d-printed-houses/).
+
+The London-based architect combined plywood with digital technology and augmented reality construction techniques, to design and install an interlocking wooden frame inside the Royal Academy's architecture gallery.
+
+Each building block was made from nine- by 12-millimetre plywood sheets, turned into a kit of parts using a CNC milling machine.
+
+[![Invisible Landscapes virtual reality installations at the Royal Academy of Arts](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_1-852x1403.jpg)](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_1-852x1403.jpg)The augmented reality of the HoloLens allowed the design to change in real time. Photo by NAARO
+
+These modular forms were then assembled by people wearing [Microsoft HoloLens headsets](https://www.dezeen.com/2015/01/22/microsoft-hololens-headset-high-definition-holograms-augmented-reality-windows-10/), which allowed for real-time adaptions as the installation was being built.
+
+The HoloLens overlaid a digital model of the design onto the gallery space as the construction team looked at the room, indicating where each plywood module could fit.
+
+The entire structure was held together in tension, with a few lateral steel rods in repeating points between the plywood elements.
+
+[![Invisible Landscapes installation at the Royal Academy of Arts](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_4-852x1277.jpg)](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_4-852x1277.jpg)A diorama allowed viewers to explore Post-Lenticular Landscapes, ScanLAB's hologram of Yosemite National Park
+
+The piece by 3D scanning company [ScanLAB Projects](https://scanlabprojects.co.uk/), Post-Lenticular Landscapes, comprised a diorama viewable through a holographic lens.
+
+The team took terrestrial laser 3D scanning equipment to Yosemite National Park in the US to produce a hologram of the landscape, recreating the 1870s expeditions of pioneering photographer Eadweard Muybridge.
+
+[![Invisible Landscapes installation at the Royal Academy of Arts](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_10-852x1277.jpg)](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_10-852x1277.jpg)Keiichi Matsuda's 360-degree short film Merger imagines a future where augmented reality changes human work fundamentally
+
+London designer Keiichi Matsuda presented his [dystopian 360-degree short film Merger](https://www.dezeen.com/2019/01/17/merger-keiichi-matsuda-future-workplace-augmented-reality-video/), which imagines how augmented reality and an obsession with productivity could merge to create a nightmarish new workplace.
+
+[![Invisible Landscapes installation at the Royal Academy of Arts](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_12-852x1277.jpg)](https://static.dezeen.com/uploads/2019/04/invisible-landscapes-royal-acadamy-of-arts-photos-andy-keate_dezeen_2364_col_12-852x1277.jpg)Weightless Bricks by Soft Bodies gave users a hybrid experience combining virtual reality with physical objects
+
+Weightless Bricks is a new commission from design studio Soft Bodies. The mixed-reality experience allows participants wearing a virtual-reality headset to explore a digital landscape whilst interacting with specially made physical objects in a hybrid world.
+
+AR and VR experiences are increasingly being used by museums to give visitors new way to encounter their exhibits.
+
+In the Netherlands, visitors to the Mauritshuis museum can [use their smartphones to simulate stepping inside the world of the painting](https://www.dezeen.com/2019/03/27/mauritshuis-rembrandt-augmented-reality-app/), while performance artist [Marina Abramović created a virtual avatar for a mixed-reality performance art piece](https://www.dezeen.com/2019/02/28/marina-abramovic-the-life-3d-digital-avatar-design/) at the Serpentine Gallery in London.
+
+Photography is by Andy Keate unless otherwise stated.
+
+
+
+?? 1.4.10 Natuzzi launches Augmented Store for VR furniture shopping(https://www.dezeen.com/2019/08/05/natuzzi-augmented-store-virtual-reality-interiors-retail/)
+
+
+
+?? 1.4.11 Others(https://www.dezeen.com/tag/augmented-reality/)
 
 1.4.12 Time Traveler 
 
@@ -176,6 +471,12 @@ Three VR rendering software will introduce below, Enscape, Lumion and Vray. Simp
 
 Virtual Reality in Enscape is easy too. Once connected the vr headset and controller to computer, you could experience the 1:1 scale immersive design spaces. Walking through the place, changing the time of the day, altering the display style, all these operation could be done inside VR. 
 
+![Enscape Example](https://wp-cdn.enscape3d.com/wp-content/uploads/2019/09/enscape-showcase-jui-feng-1.jpg)
+
+https://enscape3d.com/showcase/
+
+
+
 Enscape Guild: 
 
 - Install Enscape for your modeling software (could be SketchUp, Rhino, Revit or ArchCAD). 
@@ -192,13 +493,23 @@ Tips: 1. Learn how to use the grass and water material, it has really awesome re
 
 **Lumion**: one of the famous landscape rendering software with rich of 3D object library and great animation function. It starts to support VR in Lumion 9. However, It is kind of a fake VR with panoramas images. It is rending specific location as panoramas image, then project the panoramas into the VR headset. It is an static image. There is no way to walk through or interact with the space. However, you could still create a serious of view point to compose a immersive tour. Lumion VR has some special  setting for GearVR / Oculus (cubic panorama format) headsets and generic devices (equirectangular projection panoramas). 
 
+![img](https://neufert-cdn.archdaily.net/uploads/photo/image/172203/full_Lumion-360-Panorama_02.jpg?v=1559158349)
+
+https://www.archdaily.com/catalog/us/products/13103/render-output-360-panoramas-lumion/172203?ad_source=neufert&ad_medium=gallery&ad_name=open-gallery
+
 
 
 **V-Ray RT**: V-Ray is one of the best world leading rendering software from Chaos Group. It supports almost all different of modeling software. Normal V-Ray (Adv.) is the CPU version of V-Ray, while V-Ray RT is the GPU version of of V-Ray, which could better support high quality graphic rendering. Similar to Lumion, V-Ray do not has ability to create a immersive walkthrough, but static panoramas image instead. The version that could better integrate VR is the V-Ray RT for 3ds Max. With the help of a MAXScript, it is possible to update the position of the camera with a game controller to move around in the virtual environment while V-Ray RT updates and refreshes the render from the new camera location. However, it is still a complicated inefficient solution to sell design through VR. 
 
+![img](https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/inline/public/image/featured/1024628-chaos-group-s-new-v-ray-3.2-3ds-max-virtual-reality-ready.jpg?itok=PKMDenl0)
+
+https://www.awn.com/news/chaos-group-s-new-v-ray-32-3ds-max-virtual-reality-ready
+
 
 
 **IrisVR**: is a new software that mainly focuses on converting Building and Architecture model in to virtual immersive experience. It works with SketchUp, Revit, Navisworks, Rhino files in Oculus Rift, Oculus Quest, HTC Vive, and Windows Mixed Reality. IrisVR creates an immersive walkthroughs and VR meetings in simple one click. 
+
+![Image result for IrisVR"](https://i.ytimg.com/vi/MwmVrX2l3ds/maxresdefault.jpg)
 
 
 
@@ -222,6 +533,8 @@ Following is the tutorial to import Rhino/Sketchup model into Game Engine and Bu
 
 **Unity3D**: "a cross-platform game engine developed by Unity Technologies. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual realtiy, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction." 
 
+![Image result for Unity3d vr"](https://pluralsight.imgix.net/course-images/getting-started-vr-unity-2227-v1.jpg)
+
 Unity3D Guide: 
 
 - Install the latest Unity Software on your operation system (Windows or macOS). 
@@ -235,15 +548,31 @@ Unity3D Guide:
 
 
 
-**Unreal Engine**:
+**Unreal Engine**: Similar to Unity3D, Unreal Engine is another powerful game engine supporting multiple platforms and export formats. It supports AR, VR and MR and similar workflow with Unity3D. The major difference between Unreal Engine and Unity3D is that Unreal Engine has better visual quality, while Unity3D needs lot more work to achieve the same level of quality. Unreal Engine uses Blueprint , which could do visual script instead of writing the real code. 
+
+![Unreal Engine VR](https://i.ytimg.com/vi/4k4FXtv9KOI/maxresdefault.jpg)
 
 
 
-##### 1.6 Virtual Landscape World
+##### 1.6 Virtual Landscape / Computer-Generated Landscape
+
+Virtual Landscape existed when people started to dream. In the past, people expressed and created virtual landscape through drawing, writing and talking. With the invent of film and computation technology, visualizing virtual landscape became possible. 
 
 1.6.1 Virtual Landscape in Movies
 
+[[Film and Landscape]](https://www.screeningthepast.com/2014/12/film-and-landscape/)
+
+For the most part, landscapes are present in many films but their presence is marginal. Essentially, landscape in film is an atmosphere for story, a setting for action, there, but in the background. There is no film genre called landscape, as there is in painting, no more than there is a film genre of self-portraiture
+
+
+
+
+
 1.6.2 Virtual Landscape in Games
+
+The settings, space, or environment in games are basically virtual landscape. From the early 2D game to the currently VR game, the level of detail, and the quality of spatial experience has been extremely improved. Virtual Landscape in games break the limitation of physical principles
+
+
 
 1.6.3 Virtual Landscape in Mixed Reality
 
