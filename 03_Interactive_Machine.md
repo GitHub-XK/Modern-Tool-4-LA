@@ -1,6 +1,6 @@
 Chapter 3: Interactive Machine and Sensor? / Interactive Machine & Sensitive? Sensor (Electronic Engineer)
 
-Different from the previous visualization chapter and artificial intelligence chapter (which are both belong to computer science area), this chapter will talked about machine and robots in the physical world (which is in the field of Electronic Engineer), in human scale space and how they be responsive to people and environment. In my childhood, every kid dream is having a robots, like Transformers. They are powerful, they have intelligence and assertive. However, these robots are only in the movie of fiction. The robots we can see or have heard are the robots that could listen and speak to you, could clean your room, cook meal, or large manufacturing robots that repeating missions and producing products. In another word, the temporary world is build on the machines. They are almost everywhere in our life.
+Different from the previous visualization chapter and artificial intelligence chapter (which are both belong to computer science area), this chapter will talk about machines and robots in the physical world (which is sort of the field of Electrical Engineer), in human scale space and how they be responsive to people and environment. In my childhood, every kid's dream is having a robot, like Transformers. They are powerful, they have intelligence and assertive. However, these robots are only in the movie of fiction. The robots we can see or have heard are the robots that could listen and speak to you, could clean your room, cook meal, or large manufacturing robots that repeating missions and producing products. In another word, the temporary world is build on the machines. They are almost everywhere in our life.
 
 In landscape architecture, machine could be a great element/system that revitalize/activate the space since machine has huge amount of energy and specific functions. The most common examples are the water features, light features, mechanical/interactive installations. Comparing to the traditional landscape elements like pavement, topography, plants, the elements powered by machine are more energetic, moving , living instead of static, stable, and died. Especially after introducing sensors and program into machine, it becomes much more responsive and interactive to the environment and people. 
 
@@ -8,7 +8,7 @@ As a landscape architect, understanding how these machines work and what these i
 
 3.1.1 Introduction of Single-Board Microcontroller
 
-What is single-board microcontroller? An single-board microcontroller is a microcontroller built onto a single printed circuit board. Basically, it is a mini computer that can store and reading codes, and operate according to the code. It can hook up the machine as out put, sensor or switch as input. Then the program designer will code the program, write into the board. According to the programming code designer converting in, the single-board microcontroller will add input signal(from sensor or switch) as parameter to the program then output some signal to control how the machine move or work. It is principle just like the graph showing below:
+What is single-board microcontroller? An single-board microcontroller is a microcontroller built onto a single printed circuit board. Basically, it is a mini computer that can store and reading codes, and operate according to the code. It can hook up the machine as output, sensor or switch as input. Then the program designer will code the program, write into the board. According to the programming code designer converting in, the single-board microcontroller will add input signal(from sensor or switch) as parameter to the program then output some signal to control how the machine move or work. It is principle just like the graph showing below:
 
 3.1.2 The most popular open-source single-board microcontrollers in the market and tech field are Arduino and Raspberry Pi. Followings are brief introductions to these products:
 
@@ -30,22 +30,21 @@ There are hundreds of different sensors we could use as input signal of the micr
 
 (https://www.electronicshub.org/different-types-sensors/)
 
-Infrared (IR) Sensor: receive the signals sent from the IR remote controllers.
+Infrared (IR) Sensor: receive the signals sent from the IR remote controllers. E.g. Any kind of remote
 
-![IR Sensor](https://hackster.imgix.net/uploads/attachments/471152/obstacle-avoidance-tracking-infrared-sensor-module_S9CxCA7UqZ.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg)
+![IR Sensor](https://hackster.imgix.net/uploads/attachments/471152/obstacle-avoidance-tracking-infrared-sensor-module_S9CxCA7UqZ.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg).
 
-Ultrasonic Distance Sensor: emit a high frequency ultrasonic pulse that bounces back to the onboard ultrasonic sensor. The time delay can be used to determine distances surprisingly accurate.
+Ultrasonic Distance Sensor: emit a high frequency ultrasonic pulse that bounces back to the onboard ultrasonic sensor. The time delay can be used to determine distances surprisingly accurate. E.g Measure certain range of distance.
 
 ![Ultrasonic Distance Sensor](https://cdn.sparkfun.com//assets/parts/1/3/5/0/8/15569-Ultrasonic_Distance_Sensor_-_HC-SR04-01a.jpg)
 
-Soil Moisture Sensor: The Soil Moisture Sensor uses capacitance to measure the water content of soil (by measuring the dielectric permittivity of the soil, which is a function of the water content). Simply insert this rugged sensor into the soil to be tested, and the volumetric water content of the soil is reported in percent.
+Soil Moisture Sensor: The Soil Moisture Sensor uses capacitance to measure the water content of soil (by measuring the dielectric permittivity of the soil, which is a function of the water content). Simply insert this rugged sensor into the soil to be tested, and the volumetric water content of the soil is reported in percent. E.g. Measure the moiture of soil.
 
 ![Soil Moisture Sensor](https://media.ncd.io/sites/2/20180301093006/ADC121C021-SMS-I2CS_1.png)
 
-Temperature Sensor: Temperature Sensors measure the amount of heat energy or even coldness that is generated by an object or system, allowing us to “sense” or detect any physical change to that temperature producing either an analogue or digital output.
+Temperature Sensor: Temperature Sensors measure the amount of heat energy or even coldness that is generated by an object or system, allowing us to “sense” or detect any physical change to that temperature producing either an analogue or digital output. E.g. Digital Body Temperature Scale.
 
 ![Temperature Sensor](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/io-io55a.jpg)
-
 
 
 Metal Touch/Human Touch Sensor:
@@ -65,6 +64,22 @@ Accelerometer Module:
 Pyroelectric Infrared Sensor:
 
 ![Pyroelectric Infrared Sensor](https://image.made-in-china.com/202f0j00itMYQmlIVgcT/Cheap-PIR500bp-Pyroelectric-Infrared-PIR-Sensor-for-Light-Dependent-Control-Light.jpg)
+
+Pressure Sensor: e.g. Blood Pressure, Weight, ...
+
+Laser Distance Sensor: e.g. measure distance from satellit
+
+Image Sensor (Camera): Image processing technology
+
+Location Sensor (GPS): Navigation, Smart Phone
+
+Oxygen, CO2, ... Sensor: Car, Spaceship
+
+Chemical / Pollution Sensor: Air / Water Pollution Measuring Device
+
+Sound / Noise Sensor: 
+
+Smoke / Particle Sensor: Smoke/Fire Alarm
 
 
 
@@ -115,7 +130,7 @@ Pyroelectric Infrared Sensor:
 
 3.3.1 Programming a LED light
 
-Preparation:
+Preparation
 
 Devices: Arduino Uno Board, Breadboard, LED light bulb, usb cable, resistors
 
@@ -134,6 +149,8 @@ Step 4: Alter the default code, make your own program
 3.3.2 Build an interactive installation - Sensorial Lamp
 
 After completion of the simple exercise, you start to know how it works from code / programming to machine / movement. Next step,try using your imagination as a designer to create an interactive installation. This tutorial will teach you to create a responsive machine by using sensors.
+
+
 
 
 
